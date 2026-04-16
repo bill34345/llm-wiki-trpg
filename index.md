@@ -9,7 +9,7 @@ tags:
 # TRPG知识库
 
 > [!info] 欢迎来到TRPG知识库
-> 当前活跃：D&D (Forgotten Realms)
+> 当前活跃：D&D (Exandria)
 
 ---
 
@@ -38,12 +38,14 @@ tags:
 
 | 世界 | 描述 |
 |------|------|
-| [[Dungeons & Dragons/worlds/Forgotten-Realms]] | 被遗忘的国度 — D&D官方世界 |
+| [[Dungeons & Dragons/worlds/Exandria]] | Exandria — Critical Role世界 |
+| [[Dungeons & Dragons/worlds/Forgotten-Realms]] | 被遗忘的国度 — D&D官方世界（待摄入） |
 
 ## D&D 战役
 
-> [!todo] 尚未创建战役
-> 使用 `campaigns/Campaign-Template.md` 创建第一个战役。
+| 战役 | 世界 | 状态 |
+|------|------|------|
+| [[Dungeons & Dragons/campaigns/Call-of-the-Netherdeep]] | Exandria | ✅ 已摄入 |
 
 ---
 
