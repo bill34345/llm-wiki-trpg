@@ -1,0 +1,110 @@
+{
+  "sources": {
+    ".raw/前言_AnsweringTheCall.md": {
+      "hash": "1b8beccd933105e90a75de1277b3d537",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Plots/主线-溟渊的呼唤.md",
+        "campaigns/Call-of-the-Netherdeep/Items/三祷之坠.md",
+        "worlds/Exandria/Lore/灾祸之战.md",
+        "worlds/Exandria/Lore/月蚀矿.md",
+        "worlds/Exandria/Lore/近神者阿利克辛.md",
+        "worlds/Exandria/Lore/拉克桑.md",
+        "worlds/Exandria/Lore/茹蒂斯.md",
+        "worlds/Exandria/Factions/克灵王朝.md",
+        "worlds/Exandria/Factions/全视联盟.md",
+        "worlds/Exandria/Factions/红梦秘会.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/艾优-贾贝.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/德莫特-沃尔德.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/加萨利亚德-埃迪斯.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/埃尔文-荒行.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/玛吉-锐目.md"
+      ],
+      "pages_updated": [
+        "campaigns/Call-of-the-Netherdeep/index.md",
+        "worlds/Exandria/Lore/index.md",
+        "worlds/Exandria/Factions/index.md"
+      ]
+    },
+    ".raw/第1章_命运之争.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Locations/吉高.md",
+        "campaigns/Call-of-the-Netherdeep/Locations/翡翠石窟.md",
+        "campaigns/Call-of-the-Netherdeep/Quests/功业节总决赛.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/第2章_启程出发.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Locations/巴佐赞.md",
+        "campaigns/Call-of-the-Netherdeep/Quests/前往巴佐赞.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/第3章_巴佐赞.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    ".raw/第4章_希望明珠.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Locations/安卡瑞尔.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/第5章_溺亡之城.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Locations/凯尔-莫罗.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/第6章_溟渊.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Locations/溟渊.md",
+        "campaigns/Call-of-the-Netherdeep/Items/痛苦碎片.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/第7章_绝望之心.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    ".raw/附录A_生物.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    ".raw/附录B_魔法物品.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    ".raw/附录C_善行奖章.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    ".raw/附录D_痛苦碎片.md": {
+      "hash": "pending",
+      "ingested_at": "2026-04-17",
+      "pages_created": [],
+      "pages_updated": []
+    }
+  }
+}
