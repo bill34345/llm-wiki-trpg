@@ -9,6 +9,12 @@ tags: [wiki, log]
 
 # Wiki Log
 
+## 2026-04-17 | DND preface force-ingest (high-fidelity rewrite)
+- 将 `.raw/前言_AnsweringTheCall.md` 对应的 source 页从骨架摘要升级为高保真 canonical source
+- 深化月蚀矿、阿利克辛、三祷之坠、吉高、巴佐赞、凯尔-莫罗、溟渊、灾祸之战、艾桑维亚、乔哈斯等页，使其可直接支撑 query
+- 保留重要机制、外观、后果、阶段、叙事作用和 source-backed 细节，而不再只停留在概念锚点
+- 校正一处月蚀矿相关链接，避免指向不存在的新页
+
 ## 2026-04-17 | DND preface force-ingest
 - 将 `.raw/前言_AnsweringTheCall.md` 落位到 `wiki/sources/dnd/call-of-the-netherdeep/前言-Answering-the-Call.md`
 - 提炼模组级核心概念页：近神者、灾祸之战、月蚀矿、茹蒂斯迷信
