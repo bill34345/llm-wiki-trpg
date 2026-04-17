@@ -11,9 +11,9 @@ status: developing
 
 ## Summary
 - Pages scanned: ~100 (Call-of-the-Netherdeep campaign + Exandria world)
-- Issues found: 14
-- Auto-fixed: 0
-- Needs review: 14
+- Issues found: 20
+- Auto-fixed: 7 (from first round)
+- Needs review: 13
 
 ## Orphan Pages
 
