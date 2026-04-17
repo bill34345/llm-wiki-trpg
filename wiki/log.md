@@ -9,6 +9,13 @@ tags: [wiki, log]
 
 # Wiki Log
 
+## 2026-04-17 | DND preface force-ingest
+- 将 `.raw/前言_AnsweringTheCall.md` 落位到 `wiki/sources/dnd/call-of-the-netherdeep/前言-Answering-the-Call.md`
+- 提炼模组级核心概念页：近神者、灾祸之战、月蚀矿、茹蒂斯迷信
+- 提炼模组级核心实体页：阿利克辛、三祷之坠、吉高、巴佐赞、凯尔-莫罗、溟渊、全视联盟、红梦秘会
+- 更新 `wiki/domains/dnd/call-of-the-netherdeep/arcs/主线-近神者.md` 与第1/5/6/7章入口，使前言成为 module-wide query 入口
+- 保持旧 `Dungeons & Dragons/...` 内容不动，继续作为 legacy corpus
+
 ## 2026-04-17 | DND chapter 4 entity landing (phase 1)
 - 在 `wiki/entities` 下为第4章创建第一批实体页：安卡瑞尔、初蚀、荒野母亲神庙、异能塑像、弗瑞尔、依沃-扎拉雷、阿拉克里托斯、詹姆斯-克里昂
 - 将 `wiki/domains/dnd/call-of-the-netherdeep/chapters/第4章.md` 指向新的实体入口
