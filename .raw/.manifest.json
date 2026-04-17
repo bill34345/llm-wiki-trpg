@@ -81,6 +81,119 @@
         "campaigns/Call-of-the-Netherdeep/Locations/翡翠石窟.md",
         "campaigns/Call-of-the-Netherdeep/Quests/功业节总决赛.md"
       ]
+    },
+    ".raw/第2章_启程出发.md": {
+      "hash": "forced-reingest-2026-04-17-ch2",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/第2章-启程出发.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/迦斯提斯.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/六把刀.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/德拉扎各尔.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/科尔巴顿.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/贾乐阿姨.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/提瓦克.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/莫格拉.md",
+        "campaigns/Call-of-the-Netherdeep/Locations/翠环之路休息站.md"
+      ],
+      "pages_updated": [
+        "campaigns/Call-of-the-Netherdeep/NPCs/波斯特拉克.md",
+        "campaigns/Call-of-the-Netherdeep/Locations/巴佐赞.md"
+      ]
+    },
+    ".raw/第3章_巴佐赞.md": {
+      "hash": "forced-reingest-2026-04-17-ch3",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/第3章-巴佐赞.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/雷纳德-阿勒顿.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/塞巴斯蒂安-阿勒顿.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/福格霍姆.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/切询.md",
+        "campaigns/Call-of-the-Netherdeep/Locations/叛神殿.md"
+      ],
+      "pages_updated": [
+        "campaigns/Call-of-the-Netherdeep/NPCs/埃洛伊西亚-特尔凡.md"
+      ]
+    },
+    ".raw/第4章_希望明珠.md": {
+      "hash": "forced-reingest-2026-04-17-ch4",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/第4章-希望明珠.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/弗瑞尔.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/阿拉克里托斯.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/詹姆斯-克里昂.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/依沃-扎拉雷.md"
+      ],
+      "pages_updated": [
+        "campaigns/Call-of-the-Netherdeep/Locations/安卡瑞尔.md"
+      ]
+    },
+    ".raw/第5章_溺亡之城.md": {
+      "hash": "forced-reingest-2026-04-17-ch5",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/第5章-溺亡之城.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/涂鸦.md"
+      ],
+      "pages_updated": [
+        "campaigns/Call-of-the-Netherdeep/Locations/凯尔-莫罗.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/因赛特-阿奎尔.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/加莱奥卡达.md"
+      ]
+    },
+    ".raw/第6章_溟渊.md": {
+      "hash": "forced-reingest-2026-04-17-ch6",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/第6章-溟渊.md"
+      ],
+      "pages_updated": [
+        "campaigns/Call-of-the-Netherdeep/Locations/溟渊.md"
+      ]
+    },
+    ".raw/第7章_绝望之心.md": {
+      "hash": "forced-reingest-2026-04-17-ch7",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/第7章-绝望之心.md"
+      ],
+      "pages_updated": [
+        "campaigns/Call-of-the-Netherdeep/Locations/绝望之心.md"
+      ]
+    },
+    ".raw/附录A_生物.md": {
+      "hash": "forced-reingest-2026-04-17-appendix-a",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/附录A-生物.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/附录B_魔法物品.md": {
+      "hash": "forced-reingest-2026-04-17-appendix-b",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/附录B-魔法物品.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/附录C_善行奖章.md": {
+      "hash": "forced-reingest-2026-04-17-appendix-c",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/附录C-善行奖章.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/附录D_痛苦碎片.md": {
+      "hash": "forced-reingest-2026-04-17-appendix-d",
+      "ingested_at": "2026-04-17",
+      "pages_created": [
+        "campaigns/Call-of-the-Netherdeep/Sources/附录D-痛苦碎片.md"
+      ],
+      "pages_updated": []
     }
   }
 }
