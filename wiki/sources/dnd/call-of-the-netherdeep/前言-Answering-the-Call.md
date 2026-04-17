@@ -11,25 +11,17 @@ module: call-of-the-netherdeep
 raw_file: .raw/前言_AnsweringTheCall.md
 source_kind: raw
 canon_status: canon
-coverage: substantial
+coverage: high-fidelity
 ingest_status: processed
 ---
 
 # 前言：响应呼唤
 
 ## 摘要
-这份前言建立了《Call of the Netherdeep》的整条主线骨架：阿利克辛在灾祸之战中阻拦格乌什、凯尔·莫罗陷落、溟渊诞生、月蚀矿出现，以及三祷之坠重新现世并召唤新一代英雄。它同时给出了 Exandria / Xhorhas / Ank'Harel / Cael Morrow / The Netherdeep / Ruidus 的最小世界背景，并说明了整本模组的章节节奏、升级节点、水下规则和阿利克辛的角色基调。
+这份前言不是单纯的模组导言，而是整部《Call of the Netherdeep》的总设定入口。它一次性定义了五件核心事情：阿利克辛作为近神者的悲剧起源、凯尔-莫罗的毁灭、溟渊的诞生、月蚀矿的出现与腐化机制，以及三祷之坠如何重新现世并召唤新一代英雄。它同时提供了模组所需的最小世界背景、章节结构、升级节奏、近神者扮演基调和水下运行规则。
 
-## 核心叙事线索
-- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/近神者]]
-- [[wiki/entities/npcs/dnd/call-of-the-netherdeep/阿利克辛]]
-- [[wiki/entities/items/dnd/call-of-the-netherdeep/三祷之坠]]
-- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/月蚀矿]]
-- [[wiki/entities/locations/dnd/call-of-the-netherdeep/凯尔-莫罗]]
-- [[wiki/entities/locations/dnd/call-of-the-netherdeep/溟渊]]
-- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/茹蒂斯迷信]]
-
-## 涉及地点
+## 这份来源建立的核心知识
+### 世界与地区
 - [[wiki/concepts/lore/dnd/call-of-the-netherdeep/艾桑维亚]]
 - [[wiki/concepts/lore/dnd/call-of-the-netherdeep/乔哈斯]]
 - [[wiki/entities/locations/dnd/call-of-the-netherdeep/吉高]]
@@ -38,27 +30,66 @@ ingest_status: processed
 - [[wiki/entities/locations/dnd/call-of-the-netherdeep/凯尔-莫罗]]
 - [[wiki/entities/locations/dnd/call-of-the-netherdeep/溟渊]]
 
-## 涉及派系与力量
+### 主线人物与核心物件
+- [[wiki/entities/npcs/dnd/call-of-the-netherdeep/阿利克辛]]
+- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/近神者]]
+- [[wiki/entities/items/dnd/call-of-the-netherdeep/三祷之坠]]
+
+### 主线力量与冲突源
+- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/灾祸之战]]
+- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/茹蒂斯迷信]]
+- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/月蚀矿]]
 - [[wiki/entities/factions/dnd/call-of-the-netherdeep/全视联盟]]
 - [[wiki/entities/factions/dnd/call-of-the-netherdeep/红梦秘会]]
-- [[wiki/concepts/lore/dnd/call-of-the-netherdeep/灾祸之战]]
 
-## 章节骨架
-- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第1章]]
-- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第2章]]
-- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第3章]]
-- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第4章]]
-- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第5章]]
-- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第6章]]
-- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第7章]]
+## 叙事骨架
+### 远古层
+- 灾祸之战爆发，阿利克辛在茹蒂斯之下出生并被视为不祥之人。
+- 他在战争中三次向正神祈求并得到回应，成为近神者。
+- 他佩戴三祷之坠，成为诸神力量的承载者。
+- 他在凯尔-莫罗阻拦格乌什毁灭世界，却没能拯救城市本身。
+- 凯尔-莫罗沉没，溟渊形成，阿利克辛被困其中。
+
+### 现代层
+- 安卡瑞尔建立在凯尔-莫罗遗址与绿洲之上。
+- 全视联盟先发现奇异矿物。
+- 红梦秘会介入、命名“月蚀矿”，并推动对裂隙与溟渊的进一步探索。
+- 月蚀矿样本被取出时，阿利克辛从漫长沉睡中苏醒。
+- 诸神将三祷之坠送回吉高，借此向新的英雄发出召唤。
+
+## 可直接支持的 query 类型
+这份来源应支持直接回答至少以下问题：
+- 阿利克辛是谁、为什么会变成现在这样？
+- 月蚀矿是什么、长什么样、会造成什么后果？
+- 三祷之坠从哪里来、为什么重要？
+- 凯尔-莫罗与溟渊是什么关系？
+- 为什么第1章在吉高、第4章在安卡瑞尔、第5章去凯尔-莫罗、第6章去溟渊？
+- 近神者在 DM 演绎时应该是什么气质？
 
 ## DM 运行信息
-- 升级节点覆盖第1章到第7章，是模组的等级推进主基准。
-- 前言包含水下探索规则摘要，可作为第5章与第6章的运行预备入口。
-- “扮演近神者”段落提供了阿利克辛的双重面向：被伤害的英雄，与渴望被铭记的操纵者。
+### 角色升级骨架
+- 4级：通过第1章翡翠石窟中的挑战
+- 5级：第2章末抵达巴佐赞
+- 6级：第3章击败或逼退幽暗潜猎兽
+- 7级：第3章末抵达祈祷地
+- 8级：第4章完成至少三个派系任务
+- 9级：第4章完成至少一个进入凯尔-莫罗的派系任务
+- 10级：让三祷之坠进入升华态
+- 11级：第6章获得至少3块痛苦碎片
+- 12级：第6章末进入绝望之心
+- 13级：第7章击败或救赎阿利克辛
 
-## 提取结果
-- Created canonical source page for module preface.
-- Elevated core campaign concepts into `wiki/concepts/lore`.
-- Elevated module-wide locations, factions, and item anchors into `wiki/entities`.
-- Updated module overview, main arc, and chapter entrances to point at the new pages.
+### 扮演近神者
+- 他在幻象里呈现理想化的、值得拯救的一面。
+- 深入追问时，他会暴露更自私、操纵性更强的一面。
+- 最终演绎重点是平衡“曾经的无私英雄”和“如今的受创执迷者”。
+
+### 水下运行规则入口
+- 深水环境会放大力竭风险。
+- 第5章和第6章的探索应提前注意游泳、能见度和高水压条件。
+- 溟渊存在额外高水压危险。
+
+## 本次高保真落位结果
+- 前言已从“概览材料”提升为 module-wide canonical source。
+- 前言中的核心机制、概念、地点、人物和派系都应从对应 canonical page 直接回答 query。
+- 对应的主线与章节入口应同步引用这些页，而不再仅依赖 legacy 页面。
