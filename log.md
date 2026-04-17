@@ -39,9 +39,73 @@
 - 暮林.md - 赌场密探
 - 克瑞斯.md - 赌场刺客
 
+---
+
+## 2026-04-17 | 架构重构迁移（Phase 2完成）
+
+### 已完成工作
+
+**新建页面（18个）**：
+- `CAST/index.md` - 角色总索引（简化wikilinks）
+- `NARRATIVE/index.md` - 叙事线索引
+- `SITES/index.md` - 地点索引
+- `QUESTS/chapter-4/index.md` - 第4章任务总索引
+- `QUESTS/chapter-4/ALLIANCE/index.md`
+- `QUESTS/chapter-4/ALLIANCE/联盟任务1-6.md` (6个)
+- `QUESTS/chapter-4/CONSORTIUM/index.md`
+- `QUESTS/chapter-4/CONSORTIUM/秘会任务1-6.md` (6个)
+- `QUESTS/chapter-4/COBALT-SOUL/index.md`
+- `QUESTS/chapter-4/COBALT-SOUL/钴魂任务1-6.md` (6个)
+
+### Wikilinks修复
+- 所有wikilinks简化为简单文件名格式：`[[瑞罗萨]]`
+- 不使用相对路径或section链接
+
+### 待完成
+- 原有文件夹（NPCs, Locations等）保持不动
+- wikilinks验证需在Obsidian中测试
+
+**目标**：按新架构重组DND知识库
+
+### 新建文件夹骨架
+```
+campaigns/call-of-the-netherdeep/
+├── cast/              # 角色总览（新增index）
+│   ├── allies/全视联盟/
+│   ├── allies/红梦秘会/
+│   ├── allies/钴魂书院/
+│   ├── rivals/
+│   ├── minor-factions/
+│   └── marketh/
+├── quests/chapter-4/ # 任务（新增）
+│   ├── index.md       # 总索引
+│   ├── alliance/
+│   ├── consortium/
+│   └── cobalt-soul/
+├── narrative/         # 叙事线（新增index）
+└── sites/安卡瑞尔/   # 城区索引（新增index）
+```
+
+### 新建页面
+- `cast/index.md` - 角色总表（按派系/章节/关系分类）
+- `quests/chapter-4/index.md` - 第4章任务索引（含18个任务摘要）
+- `quests/chapter-4/alliance/联盟任务1-运送雕像.md`
+- `quests/chapter-4/alliance/联盟任务2-搜索生命穹顶.md`
+- `quests/chapter-4/cobalt-soul/钴魂任务1-泽希尔的信徒.md`
+- `quests/chapter-4/consortium/秘会任务1-我们中的幽灵.md`
+- `narrative/index.md` - 叙事线索引
+- `sites/安卡瑞尔/index.md` - 安卡瑞尔城区索引
+
+### 策略调整
+- 文件物理迁移因Unicode路径问题失败
+- 改为：创建新索引结构+wikilinks指向现有文件位置
+- 保持现有文件不动，通过wikilinks建立新导航
+
 **待处理：**
 - 芭丝/柯芙莱·琴弦 - 亚麻琴弦黑市双胞胎（可合并到地点页）
 - 隐秘巨蛇希泽尔 - 神祇页面（低优先级）
+- 其余任务页创建（联盟3-6, 秘会2-6, 钴魂2-6）
+- 创建`cast/allies/全视联盟/index.md`等子文件夹索引
 
 ---
 
