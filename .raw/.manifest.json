@@ -117,9 +117,10 @@
       ]
     },
     ".raw/第4章_希望明珠.md": {
-      "hash": "forced-reingest-2026-04-17-ch4-v2-granular",
+      "hash": "forced-reingest-2026-04-17-ch4-v3-comprehensive",
       "ingested_at": "2026-04-17",
       "reingested_at": "2026-04-17",
+      "reingested_v3": true,
       "pages_created": [
         "campaigns/Call-of-the-Netherdeep/Sources/第4章-希望明珠.md",
         "campaigns/Call-of-the-Netherdeep/NPCs/弗瑞尔.md",
