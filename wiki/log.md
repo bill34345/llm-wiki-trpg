@@ -9,6 +9,13 @@ tags: [wiki, log]
 
 # Wiki Log
 
+## 2026-04-18 | DND chapter 2 force-ingest (high-fidelity landing)
+- 将 `.raw/第2章_启程出发.md` 落位到 `wiki/sources/dnd/call-of-the-netherdeep/第2章-启程出发.md`
+- 新建第2章 canonical 页：`前往巴佐赞`、`翠环之路休息站`
+- 新建第2章角色表、地点表、任务表，补齐 chapter-level 导航
+- 更新 `wiki/domains/dnd/call-of-the-netherdeep/chapters/第2章.md`，把 chapter 入口切到 `wiki/` source / entity / view 链路
+- 更新 `巴佐赞` 页的 chapter 覆盖，承认其在第2章结尾已作为目的地登场
+
 ## 2026-04-18 | DND chapter 1 force-ingest (high-fidelity landing)
 - 将 `.raw/第1章_命运之争.md` 落位到 `wiki/sources/dnd/call-of-the-netherdeep/第1章-命运之争.md`
 - 新建第1章 canonical 页：`功业节`、`功业节总决赛`、`翡翠石窟`
