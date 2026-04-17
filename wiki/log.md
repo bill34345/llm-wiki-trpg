@@ -9,12 +9,12 @@ tags: [wiki, log]
 
 # Wiki Log
 
-## 2026-04-18 | DND chapter 2 force-ingest (high-fidelity landing)
-- 将 `.raw/第2章_启程出发.md` 落位到 `wiki/sources/dnd/call-of-the-netherdeep/第2章-启程出发.md`
-- 新建第2章 canonical 页：`前往巴佐赞`、`翠环之路休息站`
-- 新建第2章角色表、地点表、任务表，补齐 chapter-level 导航
-- 更新 `wiki/domains/dnd/call-of-the-netherdeep/chapters/第2章.md`，把 chapter 入口切到 `wiki/` source / entity / view 链路
-- 更新 `巴佐赞` 页的 chapter 覆盖，承认其在第2章结尾已作为目的地登场
+## 2026-04-18 | DND chapter 2 force-ingest (raw-only high-fidelity rewrite)
+- 按用户新要求，不再依赖旧 `Dungeons & Dragons/...` 资料承载第2章结构与细节，改为仅以 `.raw/第2章_启程出发.md` 为主重写
+- 重写 `wiki/sources/dnd/call-of-the-netherdeep/第2章-启程出发.md`、`前往巴佐赞.md`、`翠环之路休息站.md`，提升深度、颗粒度与 query 直接可答性
+- 新增第2章细颗粒 canonical 页：`再遇对手`、`夜盗三祷之坠`、`乔哈斯旅途遭遇`、`棘刺荒野`
+- 重写第2章 chapter/view 层，移除 chapter 入口中的 legacy 依赖，让 `wiki/` 自己承担可读导航
+- 更新 DND 默认 ingest 记忆：未来章节 ingest 以 raw-only 独立生成 `wiki/` 内容为准
 
 ## 2026-04-18 | DND chapter 1 force-ingest (high-fidelity landing)
 - 将 `.raw/第1章_命运之争.md` 落位到 `wiki/sources/dnd/call-of-the-netherdeep/第1章-命运之争.md`
