@@ -11,16 +11,19 @@ tags:
 > [!abstract] 概览
 > 收录 Exandria 世界中的重要势力与组织。
 
-## 重要势力
+## 荒洲主要势力
 
-| 势力名 | 类型 | 描述 |
-|--------|------|------|
-| [[Dungeons & Dragons/worlds/Exandria/Factions/克灵王朝]] | 国家 | 乔哈斯的统治力量 |
-| [[Dungeons & Dragons/worlds/Exandria/Factions/全视联盟]] | 学术团体 | 发现月蚀矿 |
-| [[Dungeons & Dragons/worlds/Exandria/Factions/红梦秘会]] | 秘密组织 | 痴迷于茹蒂斯魔法 |
-| [[Dungeons & Dragons/worlds/Exandria/Factions/钴魂书院]] | 学者组织 | 追求真相与知识 |
+| 势力名 | 原文 | 类型 | 描述 |
+|--------|------|------|------|
+| [[Dungeons & Dragons/worlds/Exandria/Factions/克灵王朝]] | Kryn Dynasty | 国家 | 乔哈斯的统治力量，卓尔建立 |
+| [[Dungeons & Dragons/worlds/Exandria/Factions/全视联盟]] | Assembly of the All-Seeing Eye | 学术团体 | 发现月蚀矿和凯尔·莫罗遗址 |
+| [[Dungeons & Dragons/worlds/Exandria/Factions/红梦秘会]] | Consortium of the Vermilion Dream | 秘密组织 | 痴迷于茹蒂斯魔法 |
+| [[Dungeons & Dragons/worlds/Exandria/Factions/钴魂书院]] | Library of the Cobalt Soul | 学者组织 | 追求真相与知识 |
 
----
+## 记忆哨兵
 
-> [!todo] 添加势力
-> 在本目录创建 .md 文件。
+守望者希尔菈蕾率领的矮人狂战士组织，与红梦秘会结盟，反对全视联盟。
+
+## 来源
+
+- `.raw/前言_AnsweringTheCall.md`

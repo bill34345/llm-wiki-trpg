@@ -20,6 +20,16 @@ tags:
 | [[Dungeons & Dragons/worlds/Exandria/Lore/近神者阿利克辛]] | 被困在溟渊的悲剧英雄 |
 | [[Dungeons & Dragons/worlds/Exandria/Lore/拉克桑]] | 光明与重生之神 |
 | [[Dungeons & Dragons/worlds/Exandria/Lore/茹蒂斯]] | 厄兆之月 |
+| [[Dungeons & Dragons/worlds/Exandria/Lore/卡萨]] | 艾桑维亚的银月 |
+
+## 神祇
+
+| 神名 | 描述 |
+|------|------|
+| 莎罕妮 | 织月者，月亮与魔法女神 |
+| 艾梵德拉 | 万变使者，变化与变形之神 |
+| 柯瑞隆 | 至高之心，造物之心 |
+| 格乌什 | 毁灭者，叛神 |
 
 ---
 

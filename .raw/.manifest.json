@@ -1,7 +1,7 @@
 {
   "sources": {
     ".raw/前言_AnsweringTheCall.md": {
-      "hash": "1b8beccd933105e90a75de1277b3d537",
+      "hash": "forced-reingest-2026-04-17",
       "ingested_at": "2026-04-17",
       "pages_created": [
         "campaigns/Call-of-the-Netherdeep/Plots/主线-溟渊的呼唤.md",
@@ -18,93 +18,69 @@
         "campaigns/Call-of-the-Netherdeep/NPCs/德莫特-沃尔德.md",
         "campaigns/Call-of-the-Netherdeep/NPCs/加萨利亚德-埃迪斯.md",
         "campaigns/Call-of-the-Netherdeep/NPCs/埃尔文-荒行.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/玛吉-锐目.md"
+        "campaigns/Call-of-the-Netherdeep/NPCs/玛吉-锐目.md",
+        "worlds/Exandria/index.md",
+        "worlds/Exandria/Factions/index.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/贝尔崔斯.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/守书者克希姆.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/盖娅-伊利拉.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/科尔布-卡兹.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/凯林-泰拉林.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/内汶-塔莎塔.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/内多西-阿奈.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/佩莉吉.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/波斯特拉克.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/萨奇利.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/希奥-纳索普.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/乌什鲁.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/守望者希尔菈蕾.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/科索特.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/猫头鹰-阿拉德琳.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/太阳熊-登达隆.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/海鸥-赫尔库尔.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/恶狼-拉松.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/萨兹拉克-符文行者.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/加莱奥卡达.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/德思-米利姆.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/哈达莱.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/贾米尔-阿利西亚.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/埃洛伊西亚-特尔凡.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/阿利克辛.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/蕾拉斯-克灵.md",
+        "worlds/Exandria/Locations/乔哈斯.md",
+        "worlds/Exandria/Locations/罗索纳.md",
+        "worlds/Exandria/Lore/卡萨.md",
+        "worlds/Exandria/Locations/index.md"
       ],
       "pages_updated": [
         "campaigns/Call-of-the-Netherdeep/index.md",
         "worlds/Exandria/Lore/index.md",
-        "worlds/Exandria/Factions/index.md"
+        "worlds/Exandria/Factions/index.md",
+        "worlds/Exandria/Factions/红梦秘会.md",
+        "worlds/Exandria/index.md"
       ]
     },
     ".raw/第1章_命运之争.md": {
-      "hash": "pending",
+      "hash": "forced-reingest-2026-04-17-ch1",
       "ingested_at": "2026-04-17",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Locations/吉高.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/阿加西-银勺.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/玛丽尔-棕牙.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/瓦尔斯.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/比特.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/扎格.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/阿丹.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/贝拉纳-佐拉德.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/欧莫.md",
+        "campaigns/Call-of-the-Netherdeep/NPCs/鹰眼.md",
+        "campaigns/Call-of-the-Netherdeep/Items/翡翠之眼.md",
+        "campaigns/Call-of-the-Netherdeep/Locations/伊弗隆河.md",
+        "campaigns/Call-of-the-Netherdeep/Locations/黑岛.md"
+      ],
+      "pages_updated": [
         "campaigns/Call-of-the-Netherdeep/Locations/翡翠石窟.md",
         "campaigns/Call-of-the-Netherdeep/Quests/功业节总决赛.md"
-      ],
-      "pages_updated": []
-    },
-    ".raw/第2章_启程出发.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Locations/巴佐赞.md",
-        "campaigns/Call-of-the-Netherdeep/Quests/前往巴佐赞.md"
-      ],
-      "pages_updated": []
-    },
-    ".raw/第3章_巴佐赞.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [],
-      "pages_updated": []
-    },
-    ".raw/第4章_希望明珠.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Locations/安卡瑞尔.md"
-      ],
-      "pages_updated": []
-    },
-    ".raw/第5章_溺亡之城.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Locations/凯尔-莫罗.md"
-      ],
-      "pages_updated": []
-    },
-    ".raw/第6章_溟渊.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Locations/溟渊.md",
-        "campaigns/Call-of-the-Netherdeep/Items/痛苦碎片.md"
-      ],
-      "pages_updated": []
-    },
-    ".raw/第7章_绝望之心.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [],
-      "pages_updated": []
-    },
-    ".raw/附录A_生物.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [],
-      "pages_updated": []
-    },
-    ".raw/附录B_魔法物品.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [],
-      "pages_updated": []
-    },
-    ".raw/附录C_善行奖章.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [],
-      "pages_updated": []
-    },
-    ".raw/附录D_痛苦碎片.md": {
-      "hash": "pending",
-      "ingested_at": "2026-04-17",
-      "pages_created": [],
-      "pages_updated": []
+      ]
     }
   }
 }
