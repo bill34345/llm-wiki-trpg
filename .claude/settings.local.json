@@ -3,7 +3,8 @@
     "allow": [
       "Bash(claude mcp:*)",
       "Skill(claude-obsidian:wiki-ingest)",
-      "Bash([ -f \"H:/LLMwiki/trpg/.raw/.manifest.json\" ])"
+      "Bash([ -f \"H:/LLMwiki/trpg/.raw/.manifest.json\" ])",
+      "Bash(command -v obsidian)"
     ]
   }
 }
