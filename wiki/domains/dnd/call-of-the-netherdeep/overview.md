@@ -22,4 +22,5 @@ module: call-of-the-netherdeep
 ## Current Status
 - 旧内容保存在 [[Dungeons & Dragons/campaigns/Call-of-the-Netherdeep]]
 - 新入口已在 `wiki/` 下建立
+- 前言现已完成高保真 ingest，并建立 module-wide source / concept / entity / timeline 入口
 - 当前优先做的是：第4章、章节入口、角色/地点视图、任务视图
