@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons/campaigns/Campaign-Template.md",
+                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/伊弗隆河.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign-Template"
+              "title": "伊弗隆河"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons/campaigns/Campaign-Template.md",
+                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/伊弗隆河.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Campaign-Template 的大纲"
+              "title": "伊弗隆河 的大纲"
             }
           },
           {
@@ -208,6 +208,8 @@
   },
   "active": "6ef5abe24c17d742",
   "lastOpenFiles": [
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/安卡瑞尔.md",
+    "Dungeons & Dragons/campaigns/Campaign-Template.md",
     "index.md.tmp.36932.1776362275910",
     "index.md.tmp.36932.1776362269691"
   ]
