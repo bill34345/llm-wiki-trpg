@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/阿丹.md",
+                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/奥拉菈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阿丹"
+              "title": "奥拉菈"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/阿丹.md",
+                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/奥拉菈.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "阿丹 的大纲"
+              "title": "奥拉菈 的大纲"
             }
           },
           {
@@ -208,35 +208,35 @@
   },
   "active": "6ef5abe24c17d742",
   "lastOpenFiles": [
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/贝尔崔斯.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/奥拉菈.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/凯尔-莫罗.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/绝望之心.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Monsters/月蚀魔象.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第2章-启程出发.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第3章-巴佐赞.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第4章-希望明珠.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/最终决战.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/前往巴佐赞.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/溟渊探索.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/功业节总决赛.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Plots/主线-溟渊的呼唤.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/鹰眼.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/扎格.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/佩莉吉.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/蕾拉斯-克灵.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/立梅尔-威斯特.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/科索特.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/科尔巴顿.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/登达隆.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/恶狼-拉松.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/巴佐赞.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/翠环之路休息站.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/阿丹.md",
     "Dungeons & Dragons/worlds/Exandria/Factions/三头犬密会.md",
-    "wiki/meta/lint-report-2026-04-17.md",
     "wiki/meta",
     "wiki",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/洛林-奥菲达斯.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/希拉.md",
-    "Dungeons & Dragons/worlds/Exandria/Factions/面纱帮.md",
-    "Dungeons & Dragons/worlds/Exandria/Factions/记忆哨兵.md",
-    "Dungeons & Dragons/worlds/Exandria/Factions/刀疤会.md",
-    "Dungeons & Dragons/worlds/Exandria/Factions/欧德之手.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Monsters/月蚀魔象.md",
     "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Monsters",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Items/月蚀魔象.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Locations/蔚蓝宫.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/立梅尔-威斯特.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/拉松.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/登达隆.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/赫尔库尔.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/阿拉德琳.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录D-痛苦碎片.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录C-善行奖章.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录B-魔法物品.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录A-生物.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第7章-绝望之心.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第6章-溟渊.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/涂鸦.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第5章-溺亡之城.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/依沃-扎拉雷.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/NPCs/詹姆斯-克里昂.md",
     "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources",
     "index.md.tmp.36932.1776362275910",
     "index.md.tmp.36932.1776362269691"
