@@ -11,14 +11,10 @@
             "id": "6ef5abe24c17d742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务6-拿下溟渊.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "联盟任务6-拿下溟渊"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 300
   },
   "right": {
     "id": "ecd845531af998c9",
@@ -154,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务6-拿下溟渊.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "联盟任务6-拿下溟渊 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,41 +203,41 @@
   },
   "active": "a2f14f9d2a8d2905",
   "lastOpenFiles": [
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul/钴魂任务6-摧毁溟渊.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/sites/index.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/sites",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/narrative/index.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/narrative",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast/allies/全视联盟/因赛特-阿奎尔.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast/allies/全视联盟",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast/allies",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast/index.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Monsters/月蚀魔象.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Monsters",
+    "wiki/meta/lint-report-2026-04-17.md",
+    "Dungeons & Dragons/worlds/Exandria/Lore/卡萨.md",
+    "Dungeons & Dragons/worlds/Exandria/Locations/罗索纳.md",
+    "Dungeons & Dragons/worlds/Exandria/Locations/乔哈斯.md",
+    "Dungeons & Dragons/worlds/Exandria/Locations/index.md",
+    "Dungeons & Dragons/worlds/Exandria/Locations",
+    "Dungeons & Dragons/worlds/Exandria/Factions/面纱帮.md",
+    "Dungeons & Dragons/worlds/Exandria/Factions/记忆哨兵.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录C-善行奖章.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录A-生物.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录D-痛苦碎片.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/附录B-魔法物品.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第7章-绝望之心.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第6章-溟渊.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第5章-溺亡之城.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第3章-巴佐赞.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第4章-希望明珠.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/第2章-启程出发.md",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources",
     "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/秘会任务6-月蚀矿垄断.md",
     "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/秘会任务5-屠杀底栖魔鱼.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/秘会任务3-房间里的大象.md",
     "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/秘会任务4-通往溟渊之钥.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/秘会任务2-当运气流尽.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务6-拿下溟渊.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul/钴魂任务5-敌人之敌.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul/钴魂任务4-结交联盟.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul/钴魂任务3-大象骚乱.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul/钴魂任务2-半熟计划.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul/钴魂任务1-泽希尔的信徒.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务5-侦查裂隙.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务4-双面间谍.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务1-运送雕像.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务2-搜索生命穹顶.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/联盟任务3-普罗里克斯的代理人.md",
-    "Dungeons & Dragons/worlds/Exandria/Factions/全视联盟.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast/allies/全视联盟/因赛特-阿奎尔.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/narrative/index.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/sites/index.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/秘会任务1-我们中的幽灵.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul/index.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/index.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance/index.md",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/index.md",
-    "Dungeons & Dragons/worlds/Exandria/deities",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/sites/安卡瑞尔",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/sites",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/narrative",
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium/秘会任务3-房间里的大象.md",
     "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/consortium",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/alliance",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast/allies/钴魂书院",
-    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/cast/allies/红梦秘会"
+    "Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Quests/chapter-4/cobalt-soul"
   ]
 }
