@@ -9,6 +9,13 @@ tags: [wiki, log]
 
 # Wiki Log
 
+## 2026-04-17 | DND preface force-ingest (focused improvements)
+- 基于定向 lint 结果，深化 `近神者` 与 `茹蒂斯迷信` 页，减少前言链路中的薄概念页
+- 新增 `水下冒险规则` 机制页，将前言里的水下运行信息提升为可 query 的 canonical page
+- 新增 `对手小队` 事件页，把前言中的长期镜像队伍机制从 source 摘要下沉为实体层知识
+- 新增 `模组总时间线` 视图页，为前言中的远古层 / 现代层 / 冒险层建立总导航
+- 更新前言 source 页、DND domain 入口与第1章入口，接入新的 canonical 页
+
 ## 2026-04-17 | DND preface force-ingest (high-fidelity rewrite)
 - 将 `.raw/前言_AnsweringTheCall.md` 对应的 source 页从骨架摘要升级为高保真 canonical source
 - 深化月蚀矿、阿利克辛、三祷之坠、吉高、巴佐赞、凯尔-莫罗、溟渊、灾祸之战、艾桑维亚、乔哈斯等页，使其可直接支撑 query
