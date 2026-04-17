@@ -36,8 +36,10 @@ status: developing
 
 ## Missing Pages
 
-- **三头犬密会**: "the 三头犬密会" mentioned in [[洛林-奥菲达斯]] — no dedicated page. Suggest: create stub in `Exandria/Factions/` or note in [[洛林-奥菲达斯]] that it's a Dwendalian mage organization (荒洲敦达里安帝国).
+~~三头犬密会~~ - **FIXED** ✓
 - **隐秘巨蛇希泽尔**: deity referenced in [[洛林-奥菲达斯]] — no page. Low priority (patron deity of a cult).
+- **芭丝/柯芙莱·琴弦**: Twin sister bandits at 黑市前哨站 (Lyrean Linen). Not created yet. Part of 黑市前哨站 location.
+- **埃奇奥**: Parrot companion of 瑞罗萨. Low priority.
 
 ## Cross-Reference Gaps
 
