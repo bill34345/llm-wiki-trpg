@@ -9,6 +9,13 @@ tags: [wiki, log]
 
 # Wiki Log
 
+## 2026-04-18 | DND chapter 1 force-ingest (high-fidelity landing)
+- 将 `.raw/第1章_命运之争.md` 落位到 `wiki/sources/dnd/call-of-the-netherdeep/第1章-命运之争.md`
+- 新建第1章 canonical 页：`功业节`、`功业节总决赛`、`翡翠石窟`
+- 新建对手五名成员实体页：艾优、德莫特、加萨利亚德、埃尔文、玛吉
+- 新建第1章角色表与地点表，补齐 chapter-level 可读导航
+- 更新 `对手小队`、`第1章` 入口与 domain `_index`，把前言 → 第1章链路接通
+
 ## 2026-04-17 | DND preface force-ingest (focused improvements)
 - 基于定向 lint 结果，深化 `近神者` 与 `茹蒂斯迷信` 页，减少前言链路中的薄概念页
 - 新增 `水下冒险规则` 机制页，将前言里的水下运行信息提升为可 query 的 canonical page
