@@ -17,14 +17,17 @@ status: developing
 
 ## Orphan Pages
 
+~~立梅尔·威斯特 wikilink mismatch~~ - **FIXED** ✓
+~~德思-米利姆 type~~ - **FIXED** ✓
+
 ### Missing inbound links from other pages:
 - [[守望者特拉斯特]]: referenced in [[记忆哨兵]] but no other page links to it. Consider linking from [[安卡瑞尔]]/locations or [[凯尔-莫罗]].
-- [[守望者拜伦]]: same — referenced in [[记忆哨兵]] but isolated. Consider linking from [[记忆哨兵#拜伦]] section or [[安卡瑞尔]].
-- [[立梅尔·威斯特]]: has dedicated page `立梅尔-威斯特.md` but wikilink `[[立梅尔·威斯特]]` in [[记忆哨兵]] may not resolve (hyphen vs space mismatch). **Fix: normalize wikilink to `[[立梅尔-威斯特]]`.**
+- [[守望者拜伦]]: same — referenced in [[记忆哨兵]] but isolated.
 
 ### Standalone pages (intentionally isolated — for DM reference):
 - [[蔚蓝宫]]: only linked from Sources/第4章-希望明珠 and 安卡瑞尔. Acceptable.
 - [[月蚀魔象]]: only linked from Sources/第4章. Acceptable (creature reference).
+- [[瑞罗萨]], [[乔尔-拉希德]], [[卡利亚莱-克鲁根]], [[老克鲁克]], [[罗哈雅-塔克]], [[阿沙恩]], [[埃娜]], [[暮林]], [[克瑞斯]]: New pages - no inbound links yet. This is expected for newly created NPC pages.
 
 ## Dead Links
 
