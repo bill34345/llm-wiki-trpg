@@ -16,8 +16,14 @@ module: call-of-the-netherdeep
 ## Start Here
 - [[wiki/domains/dnd/call-of-the-netherdeep/overview|模组概览]]
 - [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第1章|第1章入口]]
+- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第2章|第2章入口]]
+- [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第3章|第3章入口]]
 - [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第1章角色表|第1章角色表]]
 - [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第1章地点表|第1章地点表]]
+- [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第2章角色表|第2章角色表]]
+- [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第2章地点表|第2章地点表]]
+- [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第3章角色表|第3章角色表]]
+- [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第3章地点表|第3章地点表]]
 
 ## Reading Layers
 - 章节：[[wiki/domains/dnd/call-of-the-netherdeep/chapters/第1章]], [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第2章]], [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第3章]], [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第4章]], [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第5章]], [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第6章]], [[wiki/domains/dnd/call-of-the-netherdeep/chapters/第7章]]
