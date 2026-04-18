@@ -61,44 +61,44 @@
       ]
     },
     ".raw/第1章_命运之争.md": {
-      "hash": "forced-reingest-2026-04-17-ch1",
-      "ingested_at": "2026-04-17",
+      "hash": "de826347488a178c1fabcf163e150afbd0b52573f1236f8f7aadfe71b4ad519a-focused-lint-reverified-2026-04-19",
+      "ingested_at": "2026-04-19",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/NPCs/阿加西-银勺.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/玛丽尔-棕牙.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/瓦尔斯.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/比特.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/扎格.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/阿丹.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/贝拉纳-佐拉德.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/欧莫.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/鹰眼.md",
-        "campaigns/Call-of-the-Netherdeep/Items/翡翠之眼.md",
-        "campaigns/Call-of-the-Netherdeep/Locations/伊弗隆河.md",
-        "campaigns/Call-of-the-Netherdeep/Locations/黑岛.md"
+        "wiki/entities/items/dnd/call-of-the-netherdeep/翡翠之眼.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/德思·米莉姆.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/科尔布·卡兹长老.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿加西·银勺.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/欧莫.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/玛丽尔·棕牙.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿丹.md",
+        "wiki/meta/lint-report-2026-04-19-focused-chapter-1.md",
+        "wiki/meta/lint-report-2026-04-19-focused-chapter-1-recheck.md"
       ],
       "pages_updated": [
-        "campaigns/Call-of-the-Netherdeep/Locations/翡翠石窟.md",
-        "campaigns/Call-of-the-Netherdeep/Quests/功业节总决赛.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第1章-命运之争.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第1章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第1章角色表.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/功业节总决赛.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/翡翠石窟.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md"
       ]
     },
     ".raw/第2章_启程出发.md": {
-      "hash": "forced-reingest-2026-04-17-ch2",
-      "ingested_at": "2026-04-17",
+      "hash": "e2e7e6ecfd05f2d9a401b0582b3e55bb4c0a26fd52baeda63c1da629192d60d8-focused-lint-reverified-2026-04-19",
+      "ingested_at": "2026-04-19",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/第2章-启程出发.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/迦斯提斯.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/六把刀.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/德拉扎各尔.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/科尔巴顿.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/贾乐阿姨.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/提瓦克.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/莫格拉.md",
-        "campaigns/Call-of-the-Netherdeep/Locations/翠环之路休息站.md"
+        "wiki/meta/lint-report-2026-04-19-focused-chapter-2.md",
+        "wiki/meta/lint-report-2026-04-19-focused-chapter-2-recheck.md"
       ],
       "pages_updated": [
-        "campaigns/Call-of-the-Netherdeep/NPCs/波斯特拉克.md",
-        "campaigns/Call-of-the-Netherdeep/Locations/巴佐赞.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第2章-启程出发.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/乔哈斯旅途遭遇.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/巴佐赞.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md"
       ]
     },
     ".raw/第3章_巴佐赞.md": {
@@ -117,85 +117,315 @@
       ]
     },
     ".raw/第4章_希望明珠.md": {
-      "hash": "forced-reingest-2026-04-17-ch4-v3-comprehensive",
-      "ingested_at": "2026-04-17",
-      "reingested_at": "2026-04-17",
-      "reingested_v3": true,
+      "hash": "93186f12002f00ba9163d94c4af59796c3cb2478a812bfbb9330a41a677189af",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/第4章-希望明珠.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/弗瑞尔.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/阿拉克里托斯.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/詹姆斯-克里昂.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/依沃-扎拉雷.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第4章-希望明珠.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/quests-by-chapter/第4章任务表.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/水晶城堡.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/特勒斯学堂.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/导师神庙.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/生命穹顶.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/凯尔-莫罗的无底洞.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/骨园.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/幸运奔流.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/欧德之手.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/刀疤会.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/记忆哨兵.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/面纱帮.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/运送雕像.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/搜索生命穹顶.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/普罗里克斯的代理人.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/当运气流尽.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/房间里的大象.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/半熟计划.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/瑞罗萨.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/乔尔-拉希德.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/卡利亚莱-克鲁根.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/老克鲁克.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/洛林-奥菲达斯.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿拉德琳.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/萨兹拉克-符文行者.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/希拉.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/内多西-阿奈.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿沙恩.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/立梅尔-威斯特.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/因赛特-阿奎尔.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/加莱奥卡达.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/双面间谍.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/侦查裂隙.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/拿下溟渊.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/我们中的幽灵.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/通往溟渊之钥.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/屠杀底栖魔鱼.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/月蚀矿垄断.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/大象骚乱.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/结交联盟.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/敌人之敌.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/摧毁溟渊.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/泽希尔的教徒.md"
       ],
       "pages_updated": [
-        "campaigns/Call-of-the-Netherdeep/Locations/安卡瑞尔.md"
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第4章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第4章角色表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第4章地点表.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/安卡瑞尔.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/初蚀.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/荒野母亲神庙.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/全视联盟.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/红梦秘会.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/钴魂书院.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/弗瑞尔.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿拉克里托斯.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/詹姆斯-克里昂.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/依沃-扎拉雷.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/异能塑像.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/quests/chapter-4.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/arcs/派系线-全视联盟.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/arcs/派系线-红梦秘会.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/arcs/派系线-钴魂书院.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/quests-by-chapter/第4章任务表.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/凯尔-莫罗.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/溟渊.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿利克辛.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/加莱奥卡达.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/因赛特-阿奎尔.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/希拉.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/萨兹拉克-符文行者.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/洛林-奥菲达斯.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/月蚀武器.md",
+        "wiki/sources/dnd/call-of-the-netherdeep/第4章-希望明珠.md"
       ]
     },
     ".raw/第5章_溺亡之城.md": {
-      "hash": "forced-reingest-2026-04-17-ch5",
-      "ingested_at": "2026-04-17",
+      "hash": "first-pass-ingest-2026-04-18-ch5-focused-lint-repaired-and-rechecked",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/第5章-溺亡之城.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/涂鸦.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第5章-溺亡之城.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第5章地点表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第5章角色表.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/联盟大本营.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/被淹没的酒馆.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/皇家图书馆大厅.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/至高之心神庙.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/海藻丛林.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/别墅.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/瞭望塔.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/溟渊裂隙.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/涂鸦.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/科索特.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/奥拉拉.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/哈达莱.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/贝尔崔斯.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/魔法屏障与基石.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/污染情绪.md",
+        "wiki/meta/lint-report-2026-04-18-focused-chapter-5.md",
+        "wiki/meta/lint-report-2026-04-18-focused-chapter-5-recheck.md"
       ],
       "pages_updated": [
-        "campaigns/Call-of-the-Netherdeep/Locations/凯尔-莫罗.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/因赛特-阿奎尔.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/加莱奥卡达.md"
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第5章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/凯尔-莫罗.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/全视联盟.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/红梦秘会.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/传送泥板.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/因赛特-阿奎尔.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/加莱奥卡达.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿利克辛.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/底栖魔鱼阿利克辛.md",
+        "wiki/hot.md",
+        "wiki/log.md"
       ]
     },
     ".raw/第6章_溟渊.md": {
-      "hash": "forced-reingest-2026-04-17-ch6",
-      "ingested_at": "2026-04-17",
+      "hash": "first-pass-ingest-2026-04-18-ch6-focused-lint-repaired-and-rechecked",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/第6章-溟渊.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第6章-溟渊.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第6章地点表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第6章角色表.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/痛苦碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/茹蒂斯的诅咒.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/希奥.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/猎手阿利克辛.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/悔恨洞窟.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/愤怒孔穴.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/渴望深谷.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/绝望之壳.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/近神者之矛.md",
+        "wiki/meta/lint-report-2026-04-18-focused-chapter-6.md",
+        "wiki/meta/lint-report-2026-04-18-focused-chapter-6-recheck.md"
       ],
       "pages_updated": [
-        "campaigns/Call-of-the-Netherdeep/Locations/溟渊.md"
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第6章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/溟渊.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿利克辛.md",
+        "wiki/hot.md",
+        "wiki/log.md"
       ]
     },
     ".raw/第7章_绝望之心.md": {
-      "hash": "forced-reingest-2026-04-17-ch7",
-      "ingested_at": "2026-04-17",
+      "hash": "first-pass-ingest-2026-04-18-ch7-focused-lint-repaired-and-rechecked",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/第7章-绝望之心.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第7章-绝望之心.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第7章角色表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第7章地点表.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/绝望之心.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/情感治疗.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/受难者阿利克辛.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/无情者阿利克辛.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/一无所有者阿利克辛.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/无罪者阿利克辛.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/绝望之心祈祷遗址与巢穴动作.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/阿利克辛的三种结局.md",
+        "wiki/meta/lint-report-2026-04-18-focused-chapter-7.md",
+        "wiki/meta/lint-report-2026-04-18-focused-chapter-7-recheck.md"
       ],
       "pages_updated": [
-        "campaigns/Call-of-the-Netherdeep/Locations/绝望之心.md"
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第7章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/绝望之壳.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/一无所有者阿利克辛.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/无罪者阿利克辛.md",
+        "wiki/hot.md",
+        "wiki/log.md"
       ]
     },
     ".raw/附录A_生物.md": {
-      "hash": "forced-reingest-2026-04-17-appendix-a",
-      "ingested_at": "2026-04-17",
+      "hash": "b75e6b66bae8bd0104b5caeb79197b312c198fe441d9ecfa23f6beaa7d5674ad",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/附录A-生物.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/附录A-生物.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/对手阶段.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/底栖魔鱼阿利克辛.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/腐化巨鲨.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/死拥水母.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/幽暗潜猎兽.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/天背龟.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/野跃兽.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/剑魂.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/噬光鮟鱇.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/蛇口蛮蟹.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/血鳍蛇鳗.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/哀恸鱼集群.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "wiki/entities/events/dnd/call-of-the-netherdeep/对手小队.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/艾优-贾贝.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/德莫特-沃尔德.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/加萨利亚德-埃迪斯.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/埃尔文-荒行.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/玛吉-锐目.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/钴魂书院.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/全视联盟.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/红梦秘会.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第2章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第5章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第6章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第7章.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     },
     ".raw/附录B_魔法物品.md": {
-      "hash": "forced-reingest-2026-04-17-appendix-b",
-      "ingested_at": "2026-04-17",
+      "hash": "949284034dec362b2dfc4259bb7db4e31dc6d730f296d845f0ac031f42e784c1",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/附录B-魔法物品.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/附录B-魔法物品.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/诀别遗物.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/月蚀物品.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/月蚀腐化.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/呼吸罩.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/传讯耳坠.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/传送泥板.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/赤红狂怒戒指.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/月蚀护甲.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/月蚀盾牌.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/月蚀武器.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/肌肉奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/海螺奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/龟背奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/迷宫奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/肉馅饼奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/湿地奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/智慧奖章.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "wiki/entities/items/dnd/call-of-the-netherdeep/三祷之坠.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第4章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第5章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第6章.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     },
     ".raw/附录C_善行奖章.md": {
-      "hash": "forced-reingest-2026-04-17-appendix-c",
-      "ingested_at": "2026-04-17",
+      "hash": "265e366c64ba585338b12d6b00ecb23855b557115c817e28442e873b26229d4d-focused-lint-reverified-2026-04-18",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/附录C-善行奖章.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/附录C-善行奖章.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/善行奖章.md",
+        "wiki/meta/lint-report-2026-04-18-focused-appendix-c.md",
+        "wiki/meta/lint-report-2026-04-18-focused-appendix-c-recheck.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "wiki/entities/items/dnd/call-of-the-netherdeep/肌肉奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/迷宫奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/龟背奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/海螺奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/肉馅饼奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/湿地奖章.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/智慧奖章.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/功业节.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第1章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     },
     ".raw/附录D_痛苦碎片.md": {
-      "hash": "forced-reingest-2026-04-17-appendix-d",
-      "ingested_at": "2026-04-17",
+      "hash": "b6788daf66bf4251e7e1f782512bb4efdea02a1243302af48ab8deddb4b03bc8-focused-lint-reverified-2026-04-18",
+      "ingested_at": "2026-04-18",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/附录D-痛苦碎片.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/附录D-痛苦碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/厌恶碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/依恋碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/消沉碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/欺瞒碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/执迷碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/憎恨碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/哀伤碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/怜悯碎片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/怨愤碎片.md",
+        "wiki/meta/lint-report-2026-04-18-focused-appendix-d.md",
+        "wiki/meta/lint-report-2026-04-18-focused-appendix-d-recheck.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/痛苦碎片.md",
+        "wiki/sources/dnd/call-of-the-netherdeep/第6章-溟渊.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第6章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第6章地点表.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/悔恨洞窟.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/愤怒孔穴.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/渴望深谷.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   }
 }
