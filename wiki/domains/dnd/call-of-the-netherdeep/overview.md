@@ -20,7 +20,6 @@ module: call-of-the-netherdeep
 - `wiki/domains/dnd/call-of-the-netherdeep/`：章节、叙事线、任务、视图、改编、运行
 
 ## Current Status
-- 旧内容保存在 [[Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/index]]
 - 新入口已在 `wiki/` 下建立
 - 前言现已完成高保真 ingest，并建立 module-wide source / concept / entity / timeline 入口
 - 第1章到第3章已开始以 raw-only 高保真标准重写
