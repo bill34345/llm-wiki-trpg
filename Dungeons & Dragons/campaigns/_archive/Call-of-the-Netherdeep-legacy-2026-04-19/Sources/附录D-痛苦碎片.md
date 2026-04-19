@@ -26,4 +26,4 @@ campaign: Call of the Netherdeep
 
 ## 来源
 
-- `.raw/dnd/call-of-the-netherdeep/appendices/附录D_痛苦碎片.md`
+- `.raw/ingested/dnd/call-of-the-netherdeep/appendices/附录D_痛苦碎片.md`

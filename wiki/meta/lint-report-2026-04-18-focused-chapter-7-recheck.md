@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/dnd/call-of-the-netherdeep/chapters/第7章_绝望之心.md` repaired ingest surface re-check
+- Target: `.raw/ingested/dnd/call-of-the-netherdeep/chapters/第7章_绝望之心.md` repaired ingest surface re-check
 - Pages scanned: 15
 
 ## Summary

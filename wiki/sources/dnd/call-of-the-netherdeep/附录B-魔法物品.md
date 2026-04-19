@@ -8,7 +8,7 @@ updated: 2026-04-18
 tags: [dnd, call-of-the-netherdeep, source, appendix, magic-items]
 domain: dnd
 module: call-of-the-netherdeep
-raw_file: .raw/dnd/call-of-the-netherdeep/appendices/附录B_魔法物品.md
+raw_file: .raw/ingested/dnd/call-of-the-netherdeep/appendices/附录B_魔法物品.md
 source_kind: raw
 canon_status: canon
 coverage: high-fidelity

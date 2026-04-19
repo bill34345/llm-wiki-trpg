@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/dnd/call-of-the-netherdeep/chapters/第5章_溺亡之城.md` ingest surface
+- Target: `.raw/ingested/dnd/call-of-the-netherdeep/chapters/第5章_溺亡之城.md` ingest surface
 - Pages scanned: 23
 
 ## Summary

@@ -24,4 +24,4 @@ campaign: Call of the Netherdeep
 
 ## 来源
 
-- `.raw/dnd/call-of-the-netherdeep/appendices/附录A_生物.md`
+- `.raw/ingested/dnd/call-of-the-netherdeep/appendices/附录A_生物.md`

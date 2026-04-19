@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/dnd/call-of-the-netherdeep/chapters/第6章_溟渊.md` repaired ingest surface re-check
+- Target: `.raw/ingested/dnd/call-of-the-netherdeep/chapters/第6章_溟渊.md` repaired ingest surface re-check
 - Pages scanned: 16
 
 ## Summary

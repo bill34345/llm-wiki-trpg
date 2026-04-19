@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/dnd/call-of-the-netherdeep/chapters/第3章_巴佐赞.md` repaired ingest surface re-check
+- Target: `.raw/ingested/dnd/call-of-the-netherdeep/chapters/第3章_巴佐赞.md` repaired ingest surface re-check
 - Pages scanned: 26
 
 ## Summary

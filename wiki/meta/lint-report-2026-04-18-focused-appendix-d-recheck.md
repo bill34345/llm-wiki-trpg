@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/dnd/call-of-the-netherdeep/appendices/附录D_痛苦碎片.md` repaired ingest surface re-check
+- Target: `.raw/ingested/dnd/call-of-the-netherdeep/appendices/附录D_痛苦碎片.md` repaired ingest surface re-check
 - Pages scanned: 17
 
 ## Summary
