@@ -8,7 +8,7 @@ updated: 2026-04-18
 tags: [dnd, call-of-the-netherdeep, source, appendix, medals]
 domain: dnd
 module: call-of-the-netherdeep
-raw_file: .raw/附录C_善行奖章.md
+raw_file: .raw/dnd/call-of-the-netherdeep/appendices/附录C_善行奖章.md
 source_kind: raw
 canon_status: canon
 coverage: high-fidelity

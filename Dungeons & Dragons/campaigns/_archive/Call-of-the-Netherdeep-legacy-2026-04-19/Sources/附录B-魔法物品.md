@@ -23,4 +23,4 @@ campaign: Call of the Netherdeep
 
 ## 来源
 
-- `.raw/附录B_魔法物品.md`
+- `.raw/dnd/call-of-the-netherdeep/appendices/附录B_魔法物品.md`

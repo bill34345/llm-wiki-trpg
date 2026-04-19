@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/第2章_启程出发.md` current ingest surface
+- Target: `.raw/dnd/call-of-the-netherdeep/chapters/第2章_启程出发.md` current ingest surface
 - Pages scanned: 23
 
 ## Summary
@@ -24,7 +24,7 @@ status: developing
 - None.
 
 ## Warnings
-- [[wiki/entities/locations/dnd/call-of-the-netherdeep/巴佐赞]]: this page is part of the Chapter 2 ingest surface and is presented in the Chapter 2 source/chapter/view layers as the chapter terminus, but its frontmatter `source_refs` still only cites `.raw/前言_AnsweringTheCall.md` and `.raw/第3章_巴佐赞.md`. This leaves the page's provenance stale relative to the current Chapter 2 ingest surface. Suggest: add `.raw/第2章_启程出发.md` to `source_refs`, and make sure the page text clearly preserves its Chapter 2 gate/endpoint role.
+- [[wiki/entities/locations/dnd/call-of-the-netherdeep/巴佐赞]]: this page is part of the Chapter 2 ingest surface and is presented in the Chapter 2 source/chapter/view layers as the chapter terminus, but its frontmatter `source_refs` still only cites `.raw/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md` and `.raw/dnd/call-of-the-netherdeep/chapters/第3章_巴佐赞.md`. This leaves the page's provenance stale relative to the current Chapter 2 ingest surface. Suggest: add `.raw/dnd/call-of-the-netherdeep/chapters/第2章_启程出发.md` to `source_refs`, and make sure the page text clearly preserves its Chapter 2 gate/endpoint role.
 
 ## Warnings
 - None.

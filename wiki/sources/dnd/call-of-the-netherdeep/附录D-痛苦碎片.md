@@ -8,7 +8,7 @@ updated: 2026-04-18
 tags: [dnd, call-of-the-netherdeep, source, appendix, fragments-of-suffering]
 domain: dnd
 module: call-of-the-netherdeep
-raw_file: .raw/附录D_痛苦碎片.md
+raw_file: .raw/dnd/call-of-the-netherdeep/appendices/附录D_痛苦碎片.md
 source_kind: raw
 canon_status: canon
 coverage: high-fidelity
@@ -45,7 +45,7 @@ ingest_status: processed
 附录D证明这些情绪碎片不是抽象象征。谁吸收它们，谁就会在接下来的房间、遭遇与进入绝望之心之前，真实承受其增益与缺陷。
 
 ## 当前转写状态
-当前 `.raw/附录D_痛苦碎片.md` 的转写中，个别片段存在顺序噪音或文字残缺。因此本轮 canonical 落位只写入当前 raw 中可稳定辨认的规则；无法稳定还原的条文，会在对应碎片页明确标注，而不伪造缺失内容。
+当前 `.raw/dnd/call-of-the-netherdeep/appendices/附录D_痛苦碎片.md` 的转写中，个别片段存在顺序噪音或文字残缺。因此本轮 canonical 落位只写入当前 raw 中可稳定辨认的规则；无法稳定还原的条文，会在对应碎片页明确标注，而不伪造缺失内容。
 
 ## 这份来源最适合回答什么
 - 九块痛苦碎片当前 raw 中可稳定辨认的增益与缺陷分别是什么？

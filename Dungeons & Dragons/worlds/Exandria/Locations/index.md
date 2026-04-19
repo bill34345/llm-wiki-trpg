@@ -28,4 +28,4 @@ tags:
 
 ## 来源
 
-- `.raw/前言_AnsweringTheCall.md`
+- `.raw/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md`

@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/第1章_命运之争.md` repaired ingest surface re-check
+- Target: `.raw/dnd/call-of-the-netherdeep/chapters/第1章_命运之争.md` repaired ingest surface re-check
 - Pages scanned: 23
 
 ## Summary

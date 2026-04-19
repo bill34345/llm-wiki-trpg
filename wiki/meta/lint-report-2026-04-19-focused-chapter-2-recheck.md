@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/第2章_启程出发.md` repaired ingest surface re-check
+- Target: `.raw/dnd/call-of-the-netherdeep/chapters/第2章_启程出发.md` repaired ingest surface re-check
 - Pages scanned: 23
 
 ## Summary

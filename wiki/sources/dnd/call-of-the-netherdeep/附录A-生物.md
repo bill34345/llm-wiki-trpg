@@ -8,7 +8,7 @@ updated: 2026-04-18
 tags: [dnd, call-of-the-netherdeep, source, appendix, creatures]
 domain: dnd
 module: call-of-the-netherdeep
-raw_file: .raw/附录A_生物.md
+raw_file: .raw/dnd/call-of-the-netherdeep/appendices/附录A_生物.md
 source_kind: raw
 canon_status: canon
 coverage: high-fidelity

@@ -26,4 +26,4 @@ campaign: Call of the Netherdeep
 
 ## 来源
 
-- `.raw/附录C_善行奖章.md`
+- `.raw/dnd/call-of-the-netherdeep/appendices/附录C_善行奖章.md`

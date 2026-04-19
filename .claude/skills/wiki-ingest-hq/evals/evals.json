@@ -3,7 +3,7 @@
   "evals": [
     {
       "id": 1,
-      "prompt": "force ingest .raw/前言_AnsweringTheCall.md as a DND source and make the resulting wiki pages query-ready for both humans and AI",
+      "prompt": "force ingest .raw/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md as a DND source and make the resulting wiki pages query-ready for both humans and AI",
       "expected_output": "Creates or updates a source summary and canonical pages with high-fidelity, query-ready detail rather than shallow anchor pages.",
       "files": []
     },

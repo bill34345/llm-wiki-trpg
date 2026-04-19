@@ -11,7 +11,7 @@ status: developing
 
 ## Scope
 - Mode: focused
-- Target: `.raw/附录C_善行奖章.md` current ingest surface
+- Target: `.raw/dnd/call-of-the-netherdeep/appendices/附录C_善行奖章.md` current ingest surface
 - Pages scanned: 9
 
 ## Summary

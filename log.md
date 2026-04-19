@@ -2,7 +2,7 @@
 
 ## 2026-04-17 | 第4章 Force Re-ingest 补充 + Wiki Lint
 
-**Source**: `.raw/第4章_希望明珠.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第4章_希望明珠.md`
 
 ### 新建页面
 - 希拉.md - 荒野母亲神庙年轻施法者，混乱善良天生施法者
@@ -111,7 +111,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第4章 Force Re-ingest（全面原子化）
 
-**Source**: `.raw/第4章_希望明珠.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第4章_希望明珠.md`
 
 ### 新建页面
 - 阿拉德琳.md - 秘会五大师之一，歌利亚
@@ -149,7 +149,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第4章 Force Re-ingest（高颗粒度）
 
-**Source**: `.raw/第4章_希望明珠.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第4章_希望明珠.md`
 
 ### 重新摄入页面（高颗粒度）
 - Sources/第4章-希望明珠 - 完全重写，新增八区详解、派系任务详细流程
@@ -190,7 +190,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第7章 Force Re-ingest
 
-**Source**: `.raw/第7章_绝望之心.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第7章_绝望之心.md`
 
 ### 更新页面
 - 绝望之心 - 新增三个选择和战斗阶段详情
@@ -204,7 +204,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第6章 Force Re-ingest
 
-**Source**: `.raw/第6章_溟渊.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第6章_溟渊.md`
 
 ### 更新页面
 - 溟渊 - 新增三个区域、九块痛苦碎片详情
@@ -219,7 +219,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第5章 Force Re-ingest
 
-**Source**: `.raw/第5章_溺亡之城.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第5章_溺亡之城.md`
 
 ### 新增NPC（5个）
 - 涂鸦 - 天狗，全视联盟学者干员
@@ -239,7 +239,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第4章 Force Re-ingest
 
-**Source**: `.raw/第4章_希望明珠.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第4章_希望明珠.md`
 
 ### 新增NPC（5个）
 - 弗瑞尔/飞蛾 - 红梦秘会首领
@@ -259,7 +259,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第3章 Force Re-ingest
 
-**Source**: `.raw/第3章_巴佐赞.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第3章_巴佐赞.md`
 
 ### 新增NPC（6个）
 - 雷纳德·阿勒顿 - 火葬场负责人，提夫林斥候
@@ -285,7 +285,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第2章 Force Re-ingest
 
-**Source**: `.raw/第2章_启程出发.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第2章_启程出发.md`
 
 ### 新增NPC（8个）
 - 迦斯提斯 - 提夫林斥候，野跃兽骑手
@@ -312,7 +312,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 第1章 Force Re-ingest
 
-**Source**: `.raw/第1章_命运之争.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/chapters/第1章_命运之争.md`
 
 ### 新增NPC（9个）
 - 阿加西·银勺 - "不折獠牙"旅馆兽人厨师
@@ -336,7 +336,7 @@ campaigns/call-of-the-netherdeep/
 
 ## 2026-04-17 | 前言 Force Re-ingest
 
-**Source**: `.raw/前言_AnsweringTheCall.md`
+**Source**: `.raw/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md`
 
 ### 修复错误
 - 红梦秘会英文名从 "Red Moon Covenant" 修正为 **Consortium of the Vermilion Dream**

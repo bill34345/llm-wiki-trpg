@@ -62,9 +62,9 @@ The focused lint pass may still use the marketplace wiki-lint logic and report s
 If the local `/wiki-lint` compatibility wrapper is unavailable or cannot be invoked, the workflow is blocked. Do not silently fall back to manual Read/Grep checks and do not describe a manual review as lint.
 
 ## Example invocations
-- `force ingest .raw/附录A_生物.md`
-- `re-ingest .raw/第4章_希望明珠.md`
-- `force ingest .raw/前言_AnsweringTheCall.md`
+- `force ingest .raw/dnd/call-of-the-netherdeep/appendices/附录A_生物.md`
+- `re-ingest .raw/dnd/call-of-the-netherdeep/chapters/第4章_希望明珠.md`
+- `force ingest .raw/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md`
 
 ## Output expectations
 

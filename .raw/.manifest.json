@@ -1,6 +1,6 @@
 {
   "sources": {
-    ".raw/前言_AnsweringTheCall.md": {
+    ".raw/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md": {
       "hash": "forced-reingest-2026-04-17-legacy-gap-migrated-2026-04-19",
       "ingested_at": "2026-04-19",
       "pages_created": [
@@ -68,7 +68,7 @@
         "worlds/Exandria/index.md"
       ]
     },
-    ".raw/第1章_命运之争.md": {
+    ".raw/dnd/call-of-the-netherdeep/chapters/第1章_命运之争.md": {
       "hash": "de826347488a178c1fabcf163e150afbd0b52573f1236f8f7aadfe71b4ad519a-focused-lint-reverified-2026-04-19-legacy-gap-migrated-2026-04-19-pre-archive-details-folded-2026-04-19",
       "ingested_at": "2026-04-19",
       "pages_created": [
@@ -103,7 +103,7 @@
         "wiki/entities/locations/dnd/call-of-the-netherdeep/吉高.md"
       ]
     },
-    ".raw/第2章_启程出发.md": {
+    ".raw/dnd/call-of-the-netherdeep/chapters/第2章_启程出发.md": {
       "hash": "e2e7e6ecfd05f2d9a401b0582b3e55bb4c0a26fd52baeda63c1da629192d60d8-focused-lint-reverified-2026-04-19",
       "ingested_at": "2026-04-19",
       "pages_created": [
@@ -119,7 +119,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/第3章_巴佐赞.md": {
+    ".raw/dnd/call-of-the-netherdeep/chapters/第3章_巴佐赞.md": {
       "hash": "d993034c1ef7be347ca6d3087d596f2d6abff98f560fa90d7d18ba54dfa26522-focused-lint-reverified-2026-04-19",
       "ingested_at": "2026-04-19",
       "pages_created": [
@@ -150,7 +150,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/第4章_希望明珠.md": {
+    ".raw/dnd/call-of-the-netherdeep/chapters/第4章_希望明珠.md": {
       "hash": "93186f12002f00ba9163d94c4af59796c3cb2478a812bfbb9330a41a677189af-legacy-gap-migrated-2026-04-19-pre-archive-details-folded-2026-04-19",
       "ingested_at": "2026-04-19",
       "pages_created": [
@@ -252,7 +252,7 @@
         "wiki/entities/factions/dnd/call-of-the-netherdeep/记忆哨兵.md"
       ]
     },
-    ".raw/第5章_溺亡之城.md": {
+    ".raw/dnd/call-of-the-netherdeep/chapters/第5章_溺亡之城.md": {
       "hash": "first-pass-ingest-2026-04-18-ch5-focused-lint-repaired-and-rechecked",
       "ingested_at": "2026-04-18",
       "pages_created": [
@@ -293,7 +293,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/第6章_溟渊.md": {
+    ".raw/dnd/call-of-the-netherdeep/chapters/第6章_溟渊.md": {
       "hash": "first-pass-ingest-2026-04-18-ch6-focused-lint-repaired-and-rechecked",
       "ingested_at": "2026-04-18",
       "pages_created": [
@@ -322,7 +322,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/第7章_绝望之心.md": {
+    ".raw/dnd/call-of-the-netherdeep/chapters/第7章_绝望之心.md": {
       "hash": "first-pass-ingest-2026-04-18-ch7-focused-lint-repaired-and-rechecked",
       "ingested_at": "2026-04-18",
       "pages_created": [
@@ -351,7 +351,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/附录A_生物.md": {
+    ".raw/dnd/call-of-the-netherdeep/appendices/附录A_生物.md": {
       "hash": "b75e6b66bae8bd0104b5caeb79197b312c198fe441d9ecfa23f6beaa7d5674ad",
       "ingested_at": "2026-04-18",
       "pages_created": [
@@ -389,7 +389,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/附录B_魔法物品.md": {
+    ".raw/dnd/call-of-the-netherdeep/appendices/附录B_魔法物品.md": {
       "hash": "949284034dec362b2dfc4259bb7db4e31dc6d730f296d845f0ac031f42e784c1",
       "ingested_at": "2026-04-18",
       "pages_created": [
@@ -422,7 +422,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/附录C_善行奖章.md": {
+    ".raw/dnd/call-of-the-netherdeep/appendices/附录C_善行奖章.md": {
       "hash": "265e366c64ba585338b12d6b00ecb23855b557115c817e28442e873b26229d4d-focused-lint-reverified-2026-04-18",
       "ingested_at": "2026-04-18",
       "pages_created": [
@@ -447,7 +447,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/附录D_痛苦碎片.md": {
+    ".raw/dnd/call-of-the-netherdeep/appendices/附录D_痛苦碎片.md": {
       "hash": "b6788daf66bf4251e7e1f782512bb4efdea02a1243302af48ab8deddb4b03bc8-focused-lint-reverified-2026-04-18",
       "ingested_at": "2026-04-18",
       "pages_created": [

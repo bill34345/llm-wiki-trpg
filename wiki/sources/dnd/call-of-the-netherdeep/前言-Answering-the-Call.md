@@ -8,7 +8,7 @@ updated: 2026-04-17
 tags: [dnd, call-of-the-netherdeep, source, preface]
 domain: dnd
 module: call-of-the-netherdeep
-raw_file: .raw/前言_AnsweringTheCall.md
+raw_file: .raw/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md
 source_kind: raw
 canon_status: canon
 coverage: high-fidelity

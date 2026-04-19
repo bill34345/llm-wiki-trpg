@@ -28,7 +28,7 @@ tags: [wiki, hot]
 - Completed Chapter 3 auto flow repair: `神话共鸣`, `献祭引擎`, `幽暗潜猎兽出逃`, `可能性之尘`, `托罗格之饥饿诅咒`
 - Repaired Chapter 3 focused findings by refreshing touched-page `updated` dates across the Chapter 3 source / chapter / views / event / location / NPC surface
 - Created focused lint reports for Chapter 2: `lint-report-2026-04-19-focused-chapter-2`, `lint-report-2026-04-19-focused-chapter-2-recheck`
-- Repaired Chapter 2 focused findings by wiring `波斯特拉克` back into the Chapter 2 source / travel-encounter surface and adding `.raw/第2章_启程出发.md` to `巴佐赞` source provenance
+- Repaired Chapter 2 focused findings by wiring `波斯特拉克` back into the Chapter 2 source / travel-encounter surface and adding `.raw/dnd/call-of-the-netherdeep/chapters/第2章_启程出发.md` to `巴佐赞` source provenance
 - Created focused lint reports for Chapter 1: `lint-report-2026-04-19-focused-chapter-1`, `lint-report-2026-04-19-focused-chapter-1-recheck`
 - Completed Chapter 1 auto flow repair: `翡翠之眼`, `德思·米莉姆`, `科尔布·卡兹长老`, `阿加西·银勺`, `欧莫`, `玛丽尔·棕牙`, `阿丹`
 - Repaired Chapter 1 focused findings by removing legacy chapter-entry backjumps and rewiring Chapter 1 source / cast / finale / grotto pages to the new canonical nodes
