@@ -41,7 +41,7 @@ tags:
 | 当前主导航 | [[wiki/domains/dnd/call-of-the-netherdeep/_index]] | `Call of the Netherdeep` 的 chapter / view / arc / source 主阅读面 |
 | Wiki 总导航 | [[wiki/index]] | `wiki/` 的总入口与层级说明 |
 | Legacy D&D 入口 | [[Dungeons & Dragons/index]] | 旧 D&D 目录，仍保留作迁移过渡与补查 |
-| Legacy 战役入口 | [[Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/index]] | 旧 `Call of the Netherdeep` 目录入口 |
+| Archived Netherdeep legacy | [[Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/index]] | 旧 `Call of the Netherdeep` 目录，已归档；当前入口见 wiki 主导航 |
 
 ---
 

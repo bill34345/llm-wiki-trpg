@@ -15,7 +15,8 @@ tags:
 
 | 战役 | 世界 | 状态 |
 |------|------|------|
-| [[Dungeons & Dragons/campaigns/Call-of-the-Netherdeep]] | Exandria | 进行中 |
+| [[wiki/domains/dnd/call-of-the-netherdeep/_index]] | Exandria | wiki 主层 |
+| [[Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/index]] | Exandria | legacy 已归档 |
 
 ## 如何创建新战役
 

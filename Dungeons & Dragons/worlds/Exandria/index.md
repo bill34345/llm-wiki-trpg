@@ -61,7 +61,7 @@ type: world
 
 | 战役 | 状态 |
 |------|------|
-| [[Dungeons & Dragons/campaigns/Call-of-the-Netherdeep]] | 进行中 |
+| [[wiki/domains/dnd/call-of-the-netherdeep/_index]] | wiki 主层 |
 
 ## 来源
 

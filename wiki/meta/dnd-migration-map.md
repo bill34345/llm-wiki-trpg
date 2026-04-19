@@ -15,7 +15,7 @@ tags: [wiki, dnd, migration, meta]
 - 后续逐步把稳定内容吸收到 `wiki/entities` / `wiki/sources` / `wiki/domains`
 
 ## 目录映射
-- `Dungeons & Dragons/campaigns/Call-of-the-Netherdeep/Sources/` → `wiki/sources/dnd/call-of-the-netherdeep/`
+- `Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/Sources/` → `wiki/sources/dnd/call-of-the-netherdeep/`
 - `.../NPCs/` → `wiki/entities/npcs/dnd/call-of-the-netherdeep/`
 - `.../Locations/` → `wiki/entities/locations/dnd/call-of-the-netherdeep/`
 - `.../Items/` → `wiki/entities/items/dnd/call-of-the-netherdeep/`
@@ -26,5 +26,5 @@ tags: [wiki, dnd, migration, meta]
 - 用户改编内容 → `wiki/domains/dnd/call-of-the-netherdeep/adaptation/`
 
 ## 当前阶段
-- 已完成：架构骨架与入口页
-- 下一步：将第4章相关 legacy 内容优先映射到新的 entities / sources / views
+- 已完成：架构骨架、入口页、Netherdeep legacy gap migration 与旧战役目录归档
+- 当前状态：`wiki/` 是 Call of the Netherdeep 主阅读层；legacy Netherdeep 仅保留在 `_archive` 作为历史备份

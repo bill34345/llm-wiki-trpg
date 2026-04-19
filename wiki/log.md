@@ -9,6 +9,9 @@ tags: [wiki, log]
 
 # Wiki Log
 
+- Final archive audit found three remaining DM-usable detail pockets (`安卡瑞尔`, `第4章-希望明珠`, `翡翠石窟`); migrated their city gazetteer, mission checklist, and tactical dungeon DC/treasure details into canonical wiki pages, then archived the old Netherdeep campaign directory to `Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/`.
+- Post-archive verification: the old Netherdeep campaign path no longer exists; active navigation now points to `wiki/` or the archive path. Remaining old-path references are historical archive/meta records.
+
 ## 2026-04-19 | legacy gap migration | Call of the Netherdeep
 - 将删除 legacy 前审计出的主要缺口迁入 `wiki/` canonical 层，保持旧 `Dungeons & Dragons/...` 文件不动
 - 新建或深化关键缺口页：`月蚀魔象`、`守书者克希姆`、`守望者希尔菈蕾`、`拉松`、`萨奇利`、`蕾拉斯·克灵`、`贝拉纳·佐拉德`、`贾米尔·阿利西亚`、`蔚蓝宫`、`拉克桑`、`卡萨`、`罗索纳`、`三头犬密会`、`克灵王朝`
