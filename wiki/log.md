@@ -9,6 +9,13 @@ tags: [wiki, log]
 
 # Wiki Log
 
+## 2026-04-19 | wiki-ingest-hq-auto verified clean focused lint surface | 第3章：巴佐赞
+- 对 `.raw/第3章_巴佐赞.md` 的既有 raw-only ingest 面执行真实 focused lint，并生成 `lint-report-2026-04-19-focused-chapter-3`
+- first-pass 深化补出 5 个高频 standalone canonical 节点：`神话共鸣`、`献祭引擎`、`幽暗潜猎兽出逃`、`可能性之尘`、`托罗格之饥饿诅咒`；并将其接回第3章 source / chapter / 角色表 / 地点表 / 任务表、`巴佐赞调查`、`探索叛神殿`、`巴佐赞`、`待命室`、`叛神殿`、`永志不忘墙`、`切询` 与 `凯林·泰拉林`
+- focused lint 发现 1 项 recency 元数据警告：12 个实际 touched 页的 frontmatter `updated` 仍停留在 `2026-04-18`
+- repair pass 将上述 touched 页 `updated` 统一刷新为 `2026-04-19`
+- 对同一 Chapter 3 focused scope 执行第二次 focused lint，生成 `lint-report-2026-04-19-focused-chapter-3-recheck`；本次 re-check 未再发现新的 critical / warning / suggestion 级问题
+
 ## 2026-04-19 | wiki-ingest-hq-auto verified clean focused lint surface | 第2章：启程出发
 - 对 `.raw/第2章_启程出发.md` 的既有 raw-only ingest 面执行真实 focused lint，并生成 `lint-report-2026-04-19-focused-chapter-2`
 - focused lint 发现 1 项 provenance 陈旧警告与 1 项 canonical 接线建议：`巴佐赞` 虽已作为第2章终点节点参与 chapter/view/source 阅读层，但 `source_refs` 尚未记入 `.raw/第2章_启程出发.md`；`路边劫匪` 面的 `波斯特拉克/六把刀` 仍停留在纯文本层

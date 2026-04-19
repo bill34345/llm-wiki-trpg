@@ -102,18 +102,34 @@
       ]
     },
     ".raw/第3章_巴佐赞.md": {
-      "hash": "forced-reingest-2026-04-17-ch3",
-      "ingested_at": "2026-04-17",
+      "hash": "d993034c1ef7be347ca6d3087d596f2d6abff98f560fa90d7d18ba54dfa26522-focused-lint-reverified-2026-04-19",
+      "ingested_at": "2026-04-19",
       "pages_created": [
-        "campaigns/Call-of-the-Netherdeep/Sources/第3章-巴佐赞.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/雷纳德-阿勒顿.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/塞巴斯蒂安-阿勒顿.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/福格霍姆.md",
-        "campaigns/Call-of-the-Netherdeep/NPCs/切询.md",
-        "campaigns/Call-of-the-Netherdeep/Locations/叛神殿.md"
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/神话共鸣.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/可能性之尘.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/托罗格之饥饿诅咒.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/幽暗潜猎兽出逃.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/献祭引擎.md",
+        "wiki/meta/lint-report-2026-04-19-focused-chapter-3.md",
+        "wiki/meta/lint-report-2026-04-19-focused-chapter-3-recheck.md"
       ],
       "pages_updated": [
-        "campaigns/Call-of-the-Netherdeep/NPCs/埃洛伊西亚-特尔凡.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第3章-巴佐赞.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/chapters/第3章.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第3章角色表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第3章地点表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/quests-by-chapter/第3章任务表.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/巴佐赞调查.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/探索叛神殿.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/巴佐赞.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/待命室.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/永志不忘墙.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/叛神殿.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/切询.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/凯林-泰拉林.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md"
       ]
     },
     ".raw/第4章_希望明珠.md": {

@@ -26,7 +26,7 @@ module: call-of-the-netherdeep
 - 第1章到第3章已开始以 raw-only 高保真标准重写
 - 第1章现已完成 focused lint 修补：补出 `翡翠之眼` 与 6 个吉高高频 NPC standalone 页，清除第1章 chapter entry 对 legacy 页的回跳，并把 source / cast / finale / grotto 接线改回 `wiki/` canonical 节点
 - 第2章现已完成 focused lint 修补：把 `波斯特拉克` 接回 source / 旅途遭遇层，并为 `巴佐赞` 补记 Chapter 2 的 source provenance，使第2章旅途终点与人类威胁节点都回到当前 canonical ingest 面
-- 第4章已完成 focused lint 修补：补出 6 个可运行任务事件页与 13 个高频 NPC 页，并把第4章任务/派系 arc 从 legacy 任务入口切换到 `wiki/` canonical 入口
+- 第3章现已完成 focused lint 修补：补出 `神话共鸣`、`献祭引擎`、`幽暗潜猎兽出逃`、`可能性之尘` 与 `托罗格之饥饿诅咒` 等 standalone canonical 页，并把它们接回 Chapter 3 source / chapter / view / town / dungeon 面，使巴佐赞的解释框架、前线装置、门口战斗、纪念奖励与深层诅咒都回到当前 canonical ingest 面
 - 第4章后半段/跨章任务链已完成小范围 focused repair：三条派系线 18 个任务均有 canonical 事件页，后续第5/6/7章承接信息已接入任务表、chapter entry、派系 arc 与关键实体页
 - 附录B现已落位为真正的魔法物品知识层：补出 `附录B-魔法物品` source 页、`诀别遗物`、`月蚀腐化`，以及三祷之坠、传送泥板、月蚀物品和功业节奖章的 canonical pages
 - 附录C现已把功业节奖章补成独立奖励层：补出 `附录C-善行奖章` source 页、`善行奖章` 总概念页，并把七枚奖章页接回第1章比赛来源与外观细节
