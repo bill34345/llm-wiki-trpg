@@ -21,9 +21,11 @@ tags: [wiki, hot]
 - 附录D现已成为第6章痛苦碎片的规则层；遇到 raw 条文残缺时，canonical 页必须显式保留“当前转写缺口”，而不是补写缺失规则。
 - Final pre-archive parity audit found remaining DM-usable details in legacy `安卡瑞尔`, `第4章-希望明珠`, and `翡翠石窟`; those details have now been folded into canonical `wiki/` pages before archive.
 - Old Netherdeep legacy campaign directory has been archived at `Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/`; current navigation should use `wiki/domains/dnd/call-of-the-netherdeep/_index` and `wiki/sources/`.
+- `.raw/ingested/dnd/call-of-the-netherdeep/truth/1_真相.md` 已被作为本团 campaign-canon root 落位到 `wiki/sources/` 与 `wiki/domains/.../run/`，并明确与 official canon 分层。
 
 
 ## Recent Changes
+- Created campaign-canon root source and run truth surface for `.raw/ingested/dnd/call-of-the-netherdeep/truth/1_真相.md`: `战役真相-世界观底层与核心谜团`, `战役真相总览`, `茹迪斯与远地点天至日真相`, `茹迪斯之子与擢升者`, `月蚀矿与螺旋之核`, `提仕坦与言语之力`, `艾欧与拉克桑信标`, `溟渊真相`, `梦境理论与欧曼提斯`, `平行时空`, `三祷之坠-战役状态`
 - Created focused lint reports for Chapter 3: `lint-report-2026-04-19-focused-chapter-3`, `lint-report-2026-04-19-focused-chapter-3-recheck`
 - Completed Chapter 3 auto flow repair: `神话共鸣`, `献祭引擎`, `幽暗潜猎兽出逃`, `可能性之尘`, `托罗格之饥饿诅咒`
 - Repaired Chapter 3 focused findings by refreshing touched-page `updated` dates across the Chapter 3 source / chapter / views / event / location / NPC surface

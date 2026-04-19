@@ -9,6 +9,7 @@ tags: [wiki, log]
 
 # Wiki Log
 
+- Added campaign-canon root ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth/1_真相.md`: created `wiki/sources/dnd/call-of-the-netherdeep/战役真相-世界观底层与核心谜团.md` plus run-layer truth pages `战役真相总览`, `茹迪斯与远地点天至日真相`, `茹迪斯之子与擢升者`, `月蚀矿与螺旋之核`, `提仕坦与言语之力`, `艾欧与拉克桑信标`, `溟渊真相`, `梦境理论与欧曼提斯`, `平行时空`, and `三祷之坠-战役状态`; these pages explicitly preserve campaign/official canon separation.
 - Final archive audit found three remaining DM-usable detail pockets (`安卡瑞尔`, `第4章-希望明珠`, `翡翠石窟`); migrated their city gazetteer, mission checklist, and tactical dungeon DC/treasure details into canonical wiki pages, then archived the old Netherdeep campaign directory to `Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/`.
 - Post-archive verification: the old Netherdeep campaign path no longer exists; active navigation now points to `wiki/` or the archive path. Remaining old-path references are historical archive/meta records.
 

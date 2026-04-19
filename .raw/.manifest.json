@@ -1,5 +1,27 @@
 {
   "sources": {
+    ".raw/ingested/dnd/call-of-the-netherdeep/truth/1_真相.md": {
+      "hash": "80fc80dc3b216ad731e6391d59d62896bea26f4a7bc5ad3071effad900c96807",
+      "ingested_at": "2026-04-19",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/战役真相-世界观底层与核心谜团.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/战役真相总览.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/茹迪斯与远地点天至日真相.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/茹迪斯之子与擢升者.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/月蚀矿与螺旋之核.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/提仕坦与言语之力.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/艾欧与拉克桑信标.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/溟渊真相.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/梦境理论与欧曼提斯.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/平行时空.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/三祷之坠-战役状态.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
     ".raw/ingested/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md": {
       "hash": "forced-reingest-2026-04-17-legacy-gap-migrated-2026-04-19",
       "ingested_at": "2026-04-19",
