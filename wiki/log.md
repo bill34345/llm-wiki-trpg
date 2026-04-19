@@ -9,6 +9,12 @@ tags: [wiki, log]
 
 # Wiki Log
 
+## 2026-04-19 | legacy gap migration | Call of the Netherdeep
+- 将删除 legacy 前审计出的主要缺口迁入 `wiki/` canonical 层，保持旧 `Dungeons & Dragons/...` 文件不动
+- 新建或深化关键缺口页：`月蚀魔象`、`守书者克希姆`、`守望者希尔菈蕾`、`拉松`、`萨奇利`、`蕾拉斯·克灵`、`贝拉纳·佐拉德`、`贾米尔·阿利西亚`、`蔚蓝宫`、`拉克桑`、`卡萨`、`罗索纳`、`三头犬密会`、`克灵王朝`
+- 将 ambiguous / folded legacy 小节点转成 `wiki` 层独立页或明确入口：`佩莉吉`、`比特`、`扎格`、`瓦尔斯`、`鹰眼`、`克瑞斯`、`埃娜`、`暮林`、`赫尔库尔`、`登达隆`、`伊弗隆河`、`黑岛`
+- 回填双链：第1章/第4章 chapter entry、角色表、地点表、`功业节`、`当运气流尽`、`大象骚乱`、`普罗里克斯的代理人`、`吉高`、`安卡瑞尔`、`红梦秘会`、`钴魂书院`、`全视联盟`、`记忆哨兵` 等页面已接回新增节点
+
 ## 2026-04-19 | wiki-ingest-hq-auto verified clean focused lint surface | 第3章：巴佐赞
 - 对 `.raw/第3章_巴佐赞.md` 的既有 raw-only ingest 面执行真实 focused lint，并生成 `lint-report-2026-04-19-focused-chapter-3`
 - first-pass 深化补出 5 个高频 standalone canonical 节点：`神话共鸣`、`献祭引擎`、`幽暗潜猎兽出逃`、`可能性之尘`、`托罗格之饥饿诅咒`；并将其接回第3章 source / chapter / 角色表 / 地点表 / 任务表、`巴佐赞调查`、`探索叛神殿`、`巴佐赞`、`待命室`、`叛神殿`、`永志不忘墙`、`切询` 与 `凯林·泰拉林`

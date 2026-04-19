@@ -1,8 +1,8 @@
 {
   "sources": {
     ".raw/前言_AnsweringTheCall.md": {
-      "hash": "forced-reingest-2026-04-17",
-      "ingested_at": "2026-04-17",
+      "hash": "forced-reingest-2026-04-17-legacy-gap-migrated-2026-04-19",
+      "ingested_at": "2026-04-19",
       "pages_created": [
         "campaigns/Call-of-the-Netherdeep/Plots/主线-溟渊的呼唤.md",
         "campaigns/Call-of-the-Netherdeep/Items/三祷之坠.md",
@@ -50,7 +50,15 @@
         "worlds/Exandria/Locations/乔哈斯.md",
         "worlds/Exandria/Locations/罗索纳.md",
         "worlds/Exandria/Lore/卡萨.md",
-        "worlds/Exandria/Locations/index.md"
+        "worlds/Exandria/Locations/index.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/佩莉吉.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/萨奇利.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/蕾拉斯-克灵.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/罗索纳.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/拉克桑.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/卡萨.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/克灵王朝.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/叛神.md"
       ],
       "pages_updated": [
         "campaigns/Call-of-the-Netherdeep/index.md",
@@ -61,7 +69,7 @@
       ]
     },
     ".raw/第1章_命运之争.md": {
-      "hash": "de826347488a178c1fabcf163e150afbd0b52573f1236f8f7aadfe71b4ad519a-focused-lint-reverified-2026-04-19",
+      "hash": "de826347488a178c1fabcf163e150afbd0b52573f1236f8f7aadfe71b4ad519a-focused-lint-reverified-2026-04-19-legacy-gap-migrated-2026-04-19",
       "ingested_at": "2026-04-19",
       "pages_created": [
         "wiki/entities/items/dnd/call-of-the-netherdeep/翡翠之眼.md",
@@ -72,7 +80,14 @@
         "wiki/entities/npcs/dnd/call-of-the-netherdeep/玛丽尔·棕牙.md",
         "wiki/entities/npcs/dnd/call-of-the-netherdeep/阿丹.md",
         "wiki/meta/lint-report-2026-04-19-focused-chapter-1.md",
-        "wiki/meta/lint-report-2026-04-19-focused-chapter-1-recheck.md"
+        "wiki/meta/lint-report-2026-04-19-focused-chapter-1-recheck.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/贝拉纳-佐拉德.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/比特.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/扎格.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/瓦尔斯.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/鹰眼.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/伊弗隆河.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/黑岛.md"
       ],
       "pages_updated": [
         "wiki/sources/dnd/call-of-the-netherdeep/第1章-命运之争.md",
@@ -82,7 +97,10 @@
         "wiki/entities/locations/dnd/call-of-the-netherdeep/翡翠石窟.md",
         "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
         "wiki/hot.md",
-        "wiki/log.md"
+        "wiki/log.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第1章地点表.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/功业节.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/吉高.md"
       ]
     },
     ".raw/第2章_启程出发.md": {
@@ -133,8 +151,8 @@
       ]
     },
     ".raw/第4章_希望明珠.md": {
-      "hash": "93186f12002f00ba9163d94c4af59796c3cb2478a812bfbb9330a41a677189af",
-      "ingested_at": "2026-04-18",
+      "hash": "93186f12002f00ba9163d94c4af59796c3cb2478a812bfbb9330a41a677189af-legacy-gap-migrated-2026-04-19",
+      "ingested_at": "2026-04-19",
       "pages_created": [
         "wiki/sources/dnd/call-of-the-netherdeep/第4章-希望明珠.md",
         "wiki/domains/dnd/call-of-the-netherdeep/views/quests-by-chapter/第4章任务表.md",
@@ -179,7 +197,20 @@
         "wiki/entities/events/dnd/call-of-the-netherdeep/结交联盟.md",
         "wiki/entities/events/dnd/call-of-the-netherdeep/敌人之敌.md",
         "wiki/entities/events/dnd/call-of-the-netherdeep/摧毁溟渊.md",
-        "wiki/entities/events/dnd/call-of-the-netherdeep/泽希尔的教徒.md"
+        "wiki/entities/events/dnd/call-of-the-netherdeep/泽希尔的教徒.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/月蚀魔象.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/守书者克希姆.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/守望者希尔菈蕾.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/拉松.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/贾米尔·阿利西亚.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/克瑞斯.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/埃娜.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/暮林.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/登达隆.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/赫尔库尔.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/蔚蓝宫.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/三头犬密会.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/蔽日集市.md"
       ],
       "pages_updated": [
         "wiki/domains/dnd/call-of-the-netherdeep/chapters/第4章.md",
@@ -214,7 +245,11 @@
         "wiki/entities/npcs/dnd/call-of-the-netherdeep/萨兹拉克-符文行者.md",
         "wiki/entities/npcs/dnd/call-of-the-netherdeep/洛林-奥菲达斯.md",
         "wiki/entities/items/dnd/call-of-the-netherdeep/月蚀武器.md",
-        "wiki/sources/dnd/call-of-the-netherdeep/第4章-希望明珠.md"
+        "wiki/sources/dnd/call-of-the-netherdeep/第4章-希望明珠.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/大象骚乱.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/当运气流尽.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/普罗里克斯的代理人.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/记忆哨兵.md"
       ]
     },
     ".raw/第5章_溺亡之城.md": {

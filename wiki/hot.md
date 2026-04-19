@@ -10,7 +10,7 @@ tags: [wiki, hot]
 # Recent Context
 
 ## Last Updated
-2026-04-19. `.raw/第3章_巴佐赞.md` 已完成 `wiki-ingest-hq-auto` focused lint 收尾：补出 `神话共鸣`、`献祭引擎`、`幽暗潜猎兽出逃`、`可能性之尘` 与 `托罗格之饥饿诅咒` 五个 standalone canonical 节点，并把它们接回 Chapter 3 source / chapter / view / town / dungeon 面；focused re-check 已完成，当前 Chapter 3 ingest surface 未发现新的 critical / warning / suggestion 级问题。
+2026-04-19. legacy gap migration 已把此前删除 legacy 前审计出的缺口补入 `wiki/` canonical 层：新增/深化 `月蚀魔象`、`守书者克希姆`、`守望者希尔菈蕾`、`拉松`、`萨奇利`、`蕾拉斯·克灵`、`贝拉纳·佐拉德`、`贾米尔·阿利西亚`、`蔚蓝宫`、`拉克桑`、`卡萨`、`罗索纳`、`三头犬密会`、`克灵王朝`，并把第1章/第4章小节点如 `比特`、`扎格`、`瓦尔斯`、`鹰眼`、`克瑞斯`、`埃娜`、`暮林`、`赫尔库尔`、`登达隆`、`伊弗隆河`、`黑岛` 接回 chapter / view / event / faction / location 层。
 
 ## Key Recent Facts
 - 用户明确要求第2章起抛弃旧资料依赖，以 `.raw` 为主，在新的 `wiki/` 中独立生成内容。
@@ -19,7 +19,7 @@ tags: [wiki, hot]
 - `wiki-ingest-hq-auto` 已收紧：后续 auto ingest 必须实际执行 focused lint、修补、二次 focused lint，不能用手工 Read/Grep 代替。
 - 本地 `wiki-ingest-hq-auto` 现已通过项目内 `/wiki-lint` wrapper 正确接到 marketplace wiki-lint 语义，不再因 skill 暴露差异而误判 blocked。
 - 附录D现已成为第6章痛苦碎片的规则层；遇到 raw 条文残缺时，canonical 页必须显式保留“当前转写缺口”，而不是补写缺失规则。
-- 第1章现已补齐吉高高频 NPC 与 `翡翠之眼` 的 canonical 落位，后续如继续深化 Chapter 1，应优先围绕剩余高频微地点或比赛节点，而不是回退到 legacy 入口。
+- Legacy gap migration 已补齐删除旧 `Dungeons & Dragons/campaigns/Call-of-the-Netherdeep` 前审计出的主要缺口；旧目录仍未删除。
 
 
 ## Recent Changes
