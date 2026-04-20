@@ -14,7 +14,11 @@ Determine whether the user wants:
 Before ingesting a file-based source, check `.raw/.manifest.json`.
 - If the source hash is unchanged, skip and report that it is already ingested.
 - If the user requested force ingest or re-ingest, skip delta checking and continue.
-- After ingest, update the manifest with hash, ingest date, pages created, and pages updated.
+- After ingest, update the manifest with hash, ingest date, pages created, pages updated, and the finalized raw path when applicable.
+- Treat `.raw/inbox/` as a queue. A successful file-based ingest from inbox must be finalized by moving the raw source into the correct `.raw/ingested/...` location.
+- If ingest is incomplete, blocked, or failed, leave the file in `.raw/inbox/`.
+- Never delete the only raw copy automatically.
+- Before reporting success, verify that the manifest and the final raw file location agree.
 
 ## 3. Read the source completely
 Do not skim.

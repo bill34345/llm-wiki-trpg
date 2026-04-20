@@ -3,14 +3,14 @@ type: meta
 title: "Hot Cache"
 status: active
 created: 2026-04-17
-updated: 2026-04-19T00:00:00
+updated: 2026-04-21T00:00:00
 tags: [wiki, hot]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-04-19. legacy gap migration 已把此前删除 legacy 前审计出的缺口补入 `wiki/` canonical 层，并已将旧 Netherdeep 战役目录归档到 `Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/`。本轮新增/深化 `月蚀魔象`、`守书者克希姆`、`守望者希尔菈蕾`、`拉松`、`萨奇利`、`蕾拉斯·克灵`、`贝拉纳·佐拉德`、`贾米尔·阿利西亚`、`蔚蓝宫`、`拉克桑`、`卡萨`、`罗索纳`、`三头犬密会`、`克灵王朝`，并把第1章/第4章小节点如 `比特`、`扎格`、`瓦尔斯`、`鹰眼`、`克瑞斯`、`埃娜`、`暮林`、`赫尔库尔`、`登达隆`、`伊弗隆河`、`黑岛` 接回 chapter / view / event / faction / location 层。
+2026-04-21. 已完成 `.raw/ingested/dnd/call-of-the-netherdeep/prep-notes/再次进入凯尔·莫罗（备团笔记）.md` 的 HQ 备团 ingest：新建 source 页 `再次进入凯尔·莫罗：柯瑞隆神庙与三祷之坠解封`、run 事件弧 `再次进入凯尔·莫罗与三祷之坠解封` 与地点页 `柯瑞隆神庙`，并深化 `三祷之坠-战役状态`、`霍莉`、`杰德`、`底栖魔鱼阿利克辛`、`campaign-state`、`战役时间线总览` 与 `run/_index`；这份 source 现作为凯尔·莫罗再入、三祷之坠回收与柯瑞隆神庙场景战的 DM 查询入口。
 
 ## Key Recent Facts
 - 用户明确要求第2章起抛弃旧资料依赖，以 `.raw` 为主，在新的 `wiki/` 中独立生成内容。
@@ -21,10 +21,17 @@ tags: [wiki, hot]
 - 附录D现已成为第6章痛苦碎片的规则层；遇到 raw 条文残缺时，canonical 页必须显式保留“当前转写缺口”，而不是补写缺失规则。
 - Final pre-archive parity audit found remaining DM-usable details in legacy `安卡瑞尔`, `第4章-希望明珠`, and `翡翠石窟`; those details have now been folded into canonical `wiki/` pages before archive.
 - Old Netherdeep legacy campaign directory has been archived at `Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/`; current navigation should use `wiki/domains/dnd/call-of-the-netherdeep/_index` and `wiki/sources/`.
-- `.raw/ingested/dnd/call-of-the-netherdeep/truth/1_真相.md` 已被作为本团 campaign-canon root 落位到 `wiki/sources/` 与 `wiki/domains/.../run/`，并明确与 official canon 分层。
-
+- `run/` 层现有结构入口为 `wiki/domains/dnd/call-of-the-netherdeep/run/_index.md`；后续 run-layer ingest 默认按 `truth/`、`timeline/`、`characters/`、`state/` 分级落位，避免再写回 `run/` 根目录。
+- Campaign timeline focused lint repair has expanded dense run arcs into standalone `run/timeline/` pages: `审判之碗事件`, `花屋与地下势力`, `枯木镇与假九头蛇`, `提仕坦突入与至日决战`; recurring campaign NPCs now have `run/characters/` pages for `威尔比`, `达莉亚`, `希尔瓦娜`, `桑德尔`, `艾拉拉`, `艾尔敦`, and `莉莉娅·格拉汉姆`.
 
 ## Recent Changes
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/prep-notes/再次进入凯尔·莫罗（备团笔记）.md`: created `wiki/sources/dnd/call-of-the-netherdeep/再次进入凯尔·莫罗-柯瑞隆神庙与三祷之坠解封.md`, `wiki/domains/dnd/call-of-the-netherdeep/run/timeline/再次进入凯尔·莫罗与三祷之坠解封.md`, and `wiki/entities/locations/dnd/call-of-the-netherdeep/柯瑞隆神庙.md`; deepened `三祷之坠-战役状态`, `霍莉`, `杰德`, `底栖魔鱼阿利克辛`, `campaign-state`, `战役时间线总览`, and `run/_index`; updated `hot`, `log`, and manifest so this prep-note now lands as a reusable campaign-canon source surface for Cael Morrow re-entry, Jewel of Three Prayers recovery, and Corellon Temple encounter design.
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/prep-notes/2026.01.28.md`: created `wiki/sources/dnd/call-of-the-netherdeep/2026-01-28备团-安卡瑞尔沦陷与无底洞突入.md`, `wiki/domains/dnd/call-of-the-netherdeep/run/timeline/安卡瑞尔沦陷与无底洞突入.md`, `wiki/entities/items/dnd/call-of-the-netherdeep/对调胶囊.md`, and `wiki/entities/monsters/dnd/call-of-the-netherdeep/灾星使徒.md`; deepened `史蒂夫`, `霍莉`, `艾琳·博尔顿`, `campaign-state`, `战役时间线总览`, and `run/_index`; updated `hot`, `log`, and manifest so this prep-note now lands as a reusable campaign-canon source surface for Ank'Harel collapse, Maw insertion, and Cael Morrow re-entry.
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/prep-notes/2026.01.20备团.md`: created `wiki/sources/dnd/call-of-the-netherdeep/2026-01-20备团-提仕坦至日前夜与角色专属桥段.md`; added canonical/run pages `艾欧复启芯片`, `静滞气泡`, `静滞视界`, and `终局裁决`; deepened `Devexian`, `格拉多斯-02`, `托雷克`, `佩莉吉`, `提仕坦突入与至日决战`, `campaign-state`, and `run/_index`; updated `hot`, `log`, and manifest so this prep-note now lands as a reusable post-solstice campaign-canon source surface.
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth-items-mechanics/6_物品机制.md`: created `wiki/sources/dnd/call-of-the-netherdeep/物品与机制库.md`; added canonical/campaign item and concept pages `拉克桑信标`, `螺旋之核`, `提仕坦方尖碑`, `沙漏之书`, `佩罗之泪`, `林璇的玉佩`, `托雷克之战锤`, `潮汐透镜`, `蝎子王冠`, `因果纺锤`, `言语之力`, `秘迹魔法`, `记忆断层`, and `血魔法`; deepened `月蚀矿`, `月蚀腐化`, `拉克桑`, `阈限之石`, `面纱帮`, `普拉芬尼尔`, `舒马斯秘库`, `德沃萨宝库`, and `提仕坦遗迹`; updated module `_index`, `hot`, `log`, and manifest.
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth-factions-groups/5_组织群体.md`: created `wiki/sources/dnd/call-of-the-netherdeep/组织势力与特殊群体指南.md`; added canonical faction/group pages `深红圣约`, `曙光守卫`, `芬迪尔部族`, `祈愿者皮克精`, `茹迪斯之子`, `擢升者`, `艾欧人造人`, `提仕坦人`, `蛇人`, `艾欧瑞安猎手`, `星之子`, and `假九头蛇`; deepened `红梦秘会`, `全视联盟`, `钴魂书院`, `欧德之手`, `面纱帮`, `克灵王朝`, `对手小队`, `底栖魔鱼阿利克辛`, and `月刷丛林`; updated module `_index`, `hot`, `log`, and manifest.
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth-characters/3_重要角色.md`: created `wiki/sources/dnd/call-of-the-netherdeep/人物志与关系网.md` and new run character pages `哑女希拉`, `S.I.L.A.H.A.`, `Devexian`, `艾琳·博尔顿`, `兰斯洛特`, `莱拉·暮光之影`; deepened existing run character pages `杰德`, `托雷克`, `克罗登`, `摩达·尼特`, `格拉多斯-02`, `莉莉娅·格拉汉姆`, `霍莉`, `艾尔敦`, `塞琳娜`, `史蒂夫`; rewired `run/_index`, `hot`, `log`, and manifest.
+- Repaired campaign timeline focused lint findings for `.raw/ingested/dnd/call-of-the-netherdeep/truth/2_时间线.md`: created `审判之碗事件`, `花屋与地下势力`, `枯木镇与假九头蛇`, `提仕坦突入与至日决战`, plus `威尔比`, `达莉亚`, `希尔瓦娜`, `桑德尔`, `艾拉拉`, `艾尔敦`, and `莉莉娅·格拉汉姆`; rewired source/timeline/state/run index backlinks; recheck report `lint-report-2026-04-20-focused-campaign-timeline-recheck` found 0 issues.
 - Created campaign-canon root source and run truth surface for `.raw/ingested/dnd/call-of-the-netherdeep/truth/1_真相.md`: `战役真相-世界观底层与核心谜团`, `战役真相总览`, `茹迪斯与远地点天至日真相`, `茹迪斯之子与擢升者`, `月蚀矿与螺旋之核`, `提仕坦与言语之力`, `艾欧与拉克桑信标`, `溟渊真相`, `梦境理论与欧曼提斯`, `平行时空`, `三祷之坠-战役状态`
 - Created focused lint reports for Chapter 3: `lint-report-2026-04-19-focused-chapter-3`, `lint-report-2026-04-19-focused-chapter-3-recheck`
 - Completed Chapter 3 auto flow repair: `神话共鸣`, `献祭引擎`, `幽暗潜猎兽出逃`, `可能性之尘`, `托罗格之饥饿诅咒`

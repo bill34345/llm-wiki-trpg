@@ -18,7 +18,8 @@ This skill is a thin wrapper over `wiki-ingest-hq`. It does not replace the HQ i
    - stale frontmatter `updated` dates on pages actually edited in this pass
    - weak faction / event / chapter wiring that leaves reusable knowledge disconnected
 4. Run `/wiki-lint` a second time on the same focused scope to verify the repair pass.
-5. Report the final state to the user with five buckets:
+5. Finalize successful file-based ingests from `.raw/inbox/` by moving the raw source into the correct `.raw/ingested/...` path, and verify the manifest matches the finalized raw path. If the workflow is blocked or incomplete, leave the file in `.raw/inbox/`.
+6. Report the final state to the user with five buckets:
    - source ingested
    - key pages created
    - key pages updated

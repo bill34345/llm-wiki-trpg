@@ -3,12 +3,30 @@ type: meta
 title: "Wiki Log"
 status: active
 created: 2026-04-17
-updated: 2026-04-19
+updated: 2026-04-21
 tags: [wiki, log]
 ---
 
 # Wiki Log
 
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/prep-notes/再次进入凯尔·莫罗（备团笔记）.md`: created prep-note source page `再次进入凯尔·莫罗：柯瑞隆神庙与三祷之坠解封`, standalone run arc `再次进入凯尔·莫罗与三祷之坠解封`, and location node `柯瑞隆神庙`; deepened `三祷之坠-战役状态`, `霍莉`, `杰德`, `底栖魔鱼阿利克辛`, `campaign-state`, `战役时间线总览`, and `run/_index`; updated `hot` and manifest so this prep-note now lands as the queryable bridge between Cael Morrow re-entry, Jewel of Three Prayers recovery, and the Corellon Temple encounter.
+
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/prep-notes/2026.01.28.md`: created prep-note source page `2026-01-28备团：安卡瑞尔沦陷与无底洞突入`, standalone run arc `安卡瑞尔沦陷与无底洞突入`, and campaign-canon nodes `对调胶囊` / `灾星使徒`; deepened `史蒂夫`, `霍莉`, `艾琳·博尔顿`, `campaign-state`, `战役时间线总览`, and `run/_index`; updated `hot` and manifest so this prep-note now lands as the queryable bridge between post-Tishtan city collapse, Maw frontline insertion, and Cael Morrow re-entry.
+
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/prep-notes/2026.01.20备团.md`: created prep-note source page `2026-01-20备团：提仕坦至日前夜与角色专属桥段`; added reusable campaign/run pages `艾欧复启芯片`, `静滞气泡`, `静滞视界`, and `终局裁决`; deepened `Devexian`, `格拉多斯-02`, `托雷克`, `佩莉吉`, `提仕坦突入与至日决战`, `campaign-state`, and `run/_index`; updated `hot` and manifest so this DM-only source now lands as a queryable post-solstice bridge between run characters, mechanics, and endgame equipment.
+
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth-items-mechanics/6_物品机制.md`: created campaign-item/mechanic source page `物品与机制库`; added canonical/campaign pages `拉克桑信标`, `螺旋之核`, `提仕坦方尖碑`, `沙漏之书`, `佩罗之泪`, `林璇的玉佩`, `托雷克之战锤`, `潮汐透镜`, `蝎子王冠`, `因果纺锤`, `言语之力`, `秘迹魔法`, `记忆断层`, and `血魔法`; deepened `月蚀矿`, `月蚀腐化`, `拉克桑`, `阈限之石`, `面纱帮`, `普拉芬尼尔`, `舒马斯秘库`, `德沃萨宝库`, and `提仕坦遗迹`; updated module `_index`, `hot`, and manifest so item/mechanic knowledge now has a dedicated source entrypoint alongside chapter, truth, character, location, and faction layers.
+
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth-factions-groups/5_组织群体.md`: created campaign-faction source page `组织势力与特殊群体指南`; added canonical faction/group pages `深红圣约`, `曙光守卫`, `芬迪尔部族`, `祈愿者皮克精`, `茹迪斯之子`, `擢升者`, `艾欧人造人`, `提仕坦人`, `蛇人`, `艾欧瑞安猎手`, `星之子`, and `假九头蛇`; deepened `红梦秘会`, `全视联盟`, `钴魂书院`, `欧德之手`, `面纱帮`, `克灵王朝`, `对手小队`, `底栖魔鱼阿利克辛`, and `月刷丛林`; updated module `_index`, `hot`, and manifest so faction/group knowledge now has a dedicated source entrypoint alongside chapter, truth, character, and location layers.
+
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth-locations/4_地点区域.md`: created location-dossier source page `地点与区域指南`; added canonical location pages `审判之碗`, `花屋`, `枯木镇`, `德沃萨宝库`, `沙虫腹中`, `舒马斯秘库`, `提仕坦遗迹`, `鱼人村落`, `普拉芬尼尔`, `月刷丛林`, `暗影沼泽`, `鲁梅丹沙漠`, and `艾欧`; deepened official location pages `安卡瑞尔`, `蔚蓝宫`, `幸运奔流`, `水晶城堡`, `导师神庙`, `凯尔-莫罗`, `至高之心神庙`, `溟渊裂隙`, and `溟渊`; updated chapter location views, module `_index`, `hot`, and manifest so official location knowledge now has a dedicated source entrypoint alongside chapter sources.
+
+- Completed HQ ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth-characters/3_重要角色.md`: created campaign-canon source page `人物志与关系网`; added new run character pages `哑女希拉`, `S.I.L.A.H.A.`, `Devexian`, `艾琳·博尔顿`, `兰斯洛特`, and `莱拉·暮光之影`; deepened player-facing and post-solstice run character pages `杰德`, `托雷克`, `克罗登`, `摩达·尼特`, `格拉多斯-02`, `莉莉娅·格拉汉姆`, `霍莉`, `艾尔敦`, `塞琳娜`, and `史蒂夫`; updated `run/_index`, `hot`, and manifest so the run layer now has a dedicated character-dossier source entrypoint in addition to truth and timeline.
+
+- Repaired all focused lint warnings and suggestions for the campaign timeline ingest surface of `.raw/ingested/dnd/call-of-the-netherdeep/truth/2_时间线.md`: split dense chronology into linked arc pages `审判之碗事件`, `花屋与地下势力`, `枯木镇与假九头蛇`, and `提仕坦突入与至日决战`; added recurring campaign-only character pages `威尔比`, `达莉亚`, `希尔瓦娜`, `桑德尔`, `艾拉拉`, `艾尔敦`, and `莉莉娅·格拉汉姆`; expanded `三祷之坠-战役状态` with the post-Jade enemy retrieval phase and rewired source/timeline/run-index backlinks; second focused recheck `lint-report-2026-04-20-focused-campaign-timeline-recheck` returned 0 issues.
+
+- Restructured the campaign-canon `run/` layer into `truth/`, `timeline/`, `characters/`, and `state/`; moved existing run pages into those subfolders, rewrote all vault backlinks and manifest paths, added `wiki/domains/dnd/call-of-the-netherdeep/run/_index.md` as the future ingest rule page, and connected the module `_index` to the new Run Layer entry.
+- Added campaign-truth timeline ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth/2_时间线.md`: created `wiki/sources/dnd/call-of-the-netherdeep/时间线与剧情流.md` and `wiki/domains/dnd/call-of-the-netherdeep/run/timeline/战役时间线总览.md`, then backfilled high-reuse run pages `格莱姆`, `瑟西`, `格拉多斯-02`, `史蒂夫`, `无心`, `阿塔甘`, `克罗登`, `特雷恩·铁眉`, and `V`; updated `战役真相总览`, `三祷之坠-战役状态`, `campaign-state`, `_index`, `hot`, and manifest so the campaign-canon layer now has a chronology entrypoint in addition to the root truth surface.
 - Added campaign-canon root ingest for `.raw/ingested/dnd/call-of-the-netherdeep/truth/1_真相.md`: created `wiki/sources/dnd/call-of-the-netherdeep/战役真相-世界观底层与核心谜团.md` plus run-layer truth pages `战役真相总览`, `茹迪斯与远地点天至日真相`, `茹迪斯之子与擢升者`, `月蚀矿与螺旋之核`, `提仕坦与言语之力`, `艾欧与拉克桑信标`, `溟渊真相`, `梦境理论与欧曼提斯`, `平行时空`, and `三祷之坠-战役状态`; these pages explicitly preserve campaign/official canon separation.
 - Final archive audit found three remaining DM-usable detail pockets (`安卡瑞尔`, `第4章-希望明珠`, `翡翠石窟`); migrated their city gazetteer, mission checklist, and tactical dungeon DC/treasure details into canonical wiki pages, then archived the old Netherdeep campaign directory to `Dungeons & Dragons/campaigns/_archive/Call-of-the-Netherdeep-legacy-2026-04-19/`.
 - Post-archive verification: the old Netherdeep campaign path no longer exists; active navigation now points to `wiki/` or the archive path. Remaining old-path references are historical archive/meta records.

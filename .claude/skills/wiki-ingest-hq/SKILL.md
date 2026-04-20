@@ -18,6 +18,23 @@ This skill is stricter than a generic ingest flow. It inherits the default wiki-
 
 Do not treat page creation as success. A page is only complete when it can directly answer the important questions a future reader will ask without falling back to `.raw/` for all substance.
 
+## Raw source finalization
+
+Treat `.raw/inbox/` as a queue, not long-term storage.
+
+After a successful file-based ingest:
+- update `.raw/.manifest.json`
+- move the source file out of `.raw/inbox/` into the correct deterministic path under `.raw/ingested/`
+- make sure the manifest reflects the finalized raw path, not a stale inbox location
+
+If ingest is incomplete, blocked, or failed, leave the file in `.raw/inbox/` and report the reason.
+
+Never delete the only raw copy automatically.
+
+If the source was already outside `.raw/inbox/`, keep it in its existing finalized location unless the user explicitly wants a reorganization.
+
+A file-based ingest is not fully complete until this finalization step has succeeded.
+
 ## When to read bundled references
 
 - Read `references/default-skill-strengths.md` before editing the workflow, so you preserve the good parts inherited from the default skill.
@@ -36,9 +53,11 @@ Do not treat page creation as success. A page is only complete when it can direc
 6. Create or update canonical knowledge pages in `wiki/`.
 7. Backfill missing dependency pages created by new links.
 8. Update navigation and recency layers: `wiki/index.md`, `wiki/hot.md`, `wiki/log.md`, relevant `_index.md` pages, and `wiki/overview.md` if needed.
-9. Run the query-readiness review before declaring success.
-10. If the new source contradicts existing pages, add bidirectional contradiction callouts instead of silently overwriting claims.
+9. If the new source contradicts existing pages, add bidirectional contradiction callouts instead of silently overwriting claims.
+10. Run the query-readiness review before declaring success.
 11. Update `.raw/.manifest.json` with the ingest result unless this was impossible for a concrete reason.
+12. For successful file-based ingests from `.raw/inbox/`, finalize the raw source by moving it into the correct `.raw/ingested/...` path; if ingest is incomplete or blocked, leave it in `.raw/inbox/`.
+13. Verify the manifest and final raw file location agree before reporting success.
 
 ## Quality gates
 

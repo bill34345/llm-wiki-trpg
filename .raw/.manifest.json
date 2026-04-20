@@ -5,21 +5,60 @@
       "ingested_at": "2026-04-19",
       "pages_created": [
         "wiki/sources/dnd/call-of-the-netherdeep/战役真相-世界观底层与核心谜团.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/战役真相总览.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/茹迪斯与远地点天至日真相.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/茹迪斯之子与擢升者.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/月蚀矿与螺旋之核.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/提仕坦与言语之力.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/艾欧与拉克桑信标.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/溟渊真相.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/梦境理论与欧曼提斯.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/平行时空.md",
-        "wiki/domains/dnd/call-of-the-netherdeep/run/三祷之坠-战役状态.md"
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/战役真相总览.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/茹迪斯与远地点天至日真相.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/茹迪斯之子与擢升者.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/月蚀矿与螺旋之核.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/提仕坦与言语之力.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/艾欧与拉克桑信标.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/溟渊真相.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/梦境理论与欧曼提斯.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/平行时空.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/三祷之坠-战役状态.md"
       ],
       "pages_updated": [
         "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
         "wiki/hot.md",
         "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/truth/2_时间线.md": {
+      "hash": "b25991b9c38e6302e46594a8c3f0775d526ca7abd2446b1606e512f4840f04db-focused-lint-repaired-2026-04-20",
+      "ingested_at": "2026-04-20",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/时间线与剧情流.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/战役时间线总览.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/格莱姆.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/瑟西.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/格拉多斯-02.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/史蒂夫.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/无心.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/阿塔甘.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/克罗登.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/特雷恩·铁眉.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/V.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/审判之碗事件.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/花屋与地下势力.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/枯木镇与假九头蛇.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/提仕坦突入与至日决战.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/威尔比.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/达莉亚.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/希尔瓦娜.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/桑德尔.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/艾拉拉.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/艾尔敦.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/莉莉娅·格拉汉姆.md",
+        "wiki/meta/lint-report-2026-04-20-focused-campaign-timeline-recheck.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/dnd/call-of-the-netherdeep/run/truth/战役真相总览.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/三祷之坠-战役状态.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/campaign-state.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/霍莉.md"
       ]
     },
     ".raw/ingested/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md": {
@@ -168,6 +207,74 @@
         "wiki/entities/npcs/dnd/call-of-the-netherdeep/切询.md",
         "wiki/entities/npcs/dnd/call-of-the-netherdeep/凯林-泰拉林.md",
         "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/truth-factions-groups/5_组织群体.md": {
+      "hash": "manual-hq-ingest-2026-04-20",
+      "ingested_at": "2026-04-20",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/组织势力与特殊群体指南.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/深红圣约.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/曙光守卫.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/芬迪尔部族.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/祈愿者皮克精.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/茹迪斯之子.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/擢升者.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/艾欧人造人.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/提仕坦人.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/蛇人.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/艾欧瑞安猎手.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/星之子.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/假九头蛇.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/红梦秘会.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/全视联盟.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/钴魂书院.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/欧德之手.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/面纱帮.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/克灵王朝.md",
+        "wiki/entities/events/dnd/call-of-the-netherdeep/对手小队.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/底栖魔鱼阿利克辛.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/月刷丛林.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/truth-items-mechanics/6_物品机制.md": {
+      "hash": "manual-hq-ingest-2026-04-20",
+      "ingested_at": "2026-04-20",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/物品与机制库.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/拉克桑信标.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/螺旋之核.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/提仕坦方尖碑.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/沙漏之书.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/佩罗之泪.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/林璇的玉佩.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/托雷克之战锤.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/潮汐透镜.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/蝎子王冠.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/因果纺锤.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/言语之力.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/秘迹魔法.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/记忆断层.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/血魔法.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/拉克桑.md",
+        "wiki/concepts/lore/dnd/call-of-the-netherdeep/月蚀矿.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/月蚀腐化.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/阈限之石.md",
+        "wiki/entities/factions/dnd/call-of-the-netherdeep/面纱帮.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/普拉芬尼尔.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/舒马斯秘库.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/德沃萨宝库.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/提仕坦遗迹.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
         "wiki/hot.md",
         "wiki/log.md"
       ]
@@ -496,6 +603,133 @@
         "wiki/entities/locations/dnd/call-of-the-netherdeep/渴望深谷.md",
         "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
         "wiki/domains/dnd/call-of-the-netherdeep/overview.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/truth-characters/3_重要角色.md": {
+      "hash": "hq-ingest-2026-04-20",
+      "ingested_at": "2026-04-20",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/人物志与关系网.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/哑女希拉.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/S.I.L.A.H.A..md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/Devexian.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/艾琳·博尔顿.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/兰斯洛特.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/莱拉·暮光之影.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/杰德.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/托雷克.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/克罗登.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/摩达·尼特.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/格拉多斯-02.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/莉莉娅·格拉汉姆.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/霍莉.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/艾尔敦.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/塞琳娜.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/史蒂夫.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/_index.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/campaign-state.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/truth-locations/4_地点区域.md": {
+      "hash": "hq-ingest-2026-04-20",
+      "ingested_at": "2026-04-20",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/地点与区域指南.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/审判之碗.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/花屋.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/枯木镇.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/德沃萨宝库.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/鲁梅丹沙漠.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/沙虫腹中.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/舒马斯秘库.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/提仕坦遗迹.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/鱼人村落.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/普拉芬尼尔.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/月刷丛林.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/暗影沼泽.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/艾欧.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/安卡瑞尔.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/蔚蓝宫.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/幸运奔流.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/水晶城堡.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/导师神庙.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/凯尔-莫罗.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/至高之心神庙.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/溟渊裂隙.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/溟渊.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第4章地点表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第5章地点表.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/_index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/prep-notes/2026.01.20备团.md": {
+      "hash": "702480a2f54068eac6e64109ea7af6a8d7a0521ba576ecf8a8bdfc7896bdcf3f",
+      "ingested_at": "2026-04-20",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/2026-01-20备团-提仕坦至日前夜与角色专属桥段.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/艾欧复启芯片.md",
+        "wiki/concepts/mechanics/dnd/call-of-the-netherdeep/静滞气泡.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/静滞视界.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/终局裁决.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/Devexian.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/格拉多斯-02.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/托雷克.md",
+        "wiki/entities/npcs/dnd/call-of-the-netherdeep/佩莉吉.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/提仕坦突入与至日决战.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/campaign-state.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/_index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/prep-notes/2026.01.28.md": {
+      "hash": "manual-hq-ingest-2026-04-20",
+      "ingested_at": "2026-04-20",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/2026-01-28备团-安卡瑞尔沦陷与无底洞突入.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/安卡瑞尔沦陷与无底洞突入.md",
+        "wiki/entities/items/dnd/call-of-the-netherdeep/对调胶囊.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/灾星使徒.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/史蒂夫.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/霍莉.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/艾琳·博尔顿.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/campaign-state.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/战役时间线总览.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/_index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/ingested/dnd/call-of-the-netherdeep/prep-notes/再次进入凯尔·莫罗（备团笔记）.md": {
+      "hash": "manual-hq-ingest-2026-04-21",
+      "ingested_at": "2026-04-21",
+      "pages_created": [
+        "wiki/sources/dnd/call-of-the-netherdeep/再次进入凯尔·莫罗-柯瑞隆神庙与三祷之坠解封.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/再次进入凯尔·莫罗与三祷之坠解封.md",
+        "wiki/entities/locations/dnd/call-of-the-netherdeep/柯瑞隆神庙.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/三祷之坠-战役状态.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/霍莉.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/characters/杰德.md",
+        "wiki/entities/monsters/dnd/call-of-the-netherdeep/底栖魔鱼阿利克辛.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/state/campaign-state.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/timeline/战役时间线总览.md",
+        "wiki/domains/dnd/call-of-the-netherdeep/run/_index.md",
         "wiki/hot.md",
         "wiki/log.md"
       ]

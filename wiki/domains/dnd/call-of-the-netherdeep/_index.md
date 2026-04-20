@@ -3,7 +3,7 @@ type: domain
 title: "Call of the Netherdeep"
 status: active
 created: 2026-04-17
-updated: 2026-04-19
+updated: 2026-04-20
 tags: [wiki, dnd, call-of-the-netherdeep, domain]
 domain: dnd
 module: call-of-the-netherdeep
@@ -19,6 +19,9 @@ module: call-of-the-netherdeep
 - [[wiki/sources/dnd/call-of-the-netherdeep/附录B-魔法物品|附录B：魔法物品]]
 - [[wiki/sources/dnd/call-of-the-netherdeep/附录C-善行奖章|附录C：善行奖章]]
 - [[wiki/sources/dnd/call-of-the-netherdeep/附录D-痛苦碎片|附录D：痛苦碎片]]
+- [[wiki/sources/dnd/call-of-the-netherdeep/地点与区域指南|地点与区域指南]]
+- [[wiki/sources/dnd/call-of-the-netherdeep/组织势力与特殊群体指南|组织势力与特殊群体指南]]
+- [[wiki/sources/dnd/call-of-the-netherdeep/物品与机制库|物品与机制库]]
 - [[wiki/sources/dnd/call-of-the-netherdeep/第4章-希望明珠|第4章：希望明珠 source]]
 - [[wiki/sources/dnd/call-of-the-netherdeep/第5章-溺亡之城|第5章：溺亡之城 source]]
 - [[wiki/sources/dnd/call-of-the-netherdeep/第6章-溟渊|第6章：溟渊 source]]
@@ -52,4 +55,4 @@ module: call-of-the-netherdeep
 - 叙事线：[[wiki/domains/dnd/call-of-the-netherdeep/arcs/主线-近神者]], [[wiki/domains/dnd/call-of-the-netherdeep/arcs/派系线-全视联盟]], [[wiki/domains/dnd/call-of-the-netherdeep/arcs/派系线-红梦秘会]], [[wiki/domains/dnd/call-of-the-netherdeep/arcs/派系线-钴魂书院]]
 - 视图：[[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第1章角色表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第1章地点表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第2章角色表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第2章地点表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第3章角色表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第3章地点表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第4章角色表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第4章地点表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第5章角色表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第5章地点表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第6章角色表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第6章地点表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/cast-by-chapter/第7章角色表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/locations-by-chapter/第7章地点表]], [[wiki/domains/dnd/call-of-the-netherdeep/views/timeline/模组总时间线]]
 - 改编：[[wiki/domains/dnd/call-of-the-netherdeep/adaptation/改编总览]]
-- 运行：[[wiki/domains/dnd/call-of-the-netherdeep/run/campaign-state]], [[wiki/domains/dnd/call-of-the-netherdeep/run/战役真相总览]]
+- 运行：[[wiki/domains/dnd/call-of-the-netherdeep/run/_index|Run Layer]], [[wiki/domains/dnd/call-of-the-netherdeep/run/state/campaign-state]], [[wiki/domains/dnd/call-of-the-netherdeep/run/truth/战役真相总览]], [[wiki/domains/dnd/call-of-the-netherdeep/run/timeline/战役时间线总览]]
