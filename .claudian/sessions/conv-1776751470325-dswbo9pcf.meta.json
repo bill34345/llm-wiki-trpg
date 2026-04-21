@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776751470325-dswbo9pcf",
+  "providerId": "claude",
+  "title": "Respond to greeting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776751470328,
+  "updatedAt": 1776751518369,
+  "lastResponseAt": 1776751518369,
+  "sessionId": "2024144a-405c-4968-a3fa-156a31df23e7",
+  "providerState": {
+    "providerSessionId": "2024144a-405c-4968-a3fa-156a31df23e7"
+  },
+  "currentNote": "index.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
