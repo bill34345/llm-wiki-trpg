@@ -1,0 +1,23 @@
+{
+  "skill_name": "wiki-ingest-hq",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "force ingest .raw/ingested/dnd/call-of-the-netherdeep/preface/前言_AnsweringTheCall.md as a DND source and make the resulting wiki pages query-ready for both humans and AI",
+      "expected_output": "Creates or updates a source summary and canonical pages with high-fidelity, query-ready detail rather than shallow anchor pages.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "re-ingest a detailed chapter source into the wiki and preserve scene structure, triggers, consequences, and reusable entity knowledge instead of only writing a chapter summary",
+      "expected_output": "Produces standalone reusable pages for key entities and events, preserves operational detail, and updates graph navigation layers.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "ingest this DND module source and make sure important contradictions with existing wiki pages are surfaced explicitly instead of being silently overwritten",
+      "expected_output": "Uses bidirectional contradiction callouts and leaves the knowledge graph navigable and auditable.",
+      "files": []
+    }
+  ]
+}

@@ -46,7 +46,7 @@
       "wslDistroOverridesByHost": {}
     }
   },
-  "settingsProvider": "claude",
+  "settingsProvider": "codex",
   "savedProviderModel": {
     "claude": "haiku"
   },
