@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "haiku",
+  "model": "gpt-5.5",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -30,6 +30,7 @@
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
+      "customModels": "",
       "lastModel": "haiku",
       "environmentVariables": "",
       "environmentHash": ""
@@ -39,23 +40,34 @@
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
+      "customModels": "",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethodsByHost": {},
+      "installationMethodsByHost": {
+        "WIN-3TTP5EKR0CD": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     }
   },
   "settingsProvider": "codex",
   "savedProviderModel": {
-    "claude": "haiku"
+    "claude": "haiku",
+    "codex": "gpt-5.5"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "codex": "high"
   },
-  "savedProviderServiceTier": {},
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
   "savedProviderThinkingBudget": {
-    "claude": "off"
+    "claude": "off",
+    "codex": "off"
+  },
+  "savedProviderPermissionMode": {
+    "codex": "yolo"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
