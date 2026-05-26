@@ -19,6 +19,7 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
+  "requireCommandOrControlEnterToSend": false,
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
@@ -45,9 +46,21 @@
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "WIN-3TTP5EKR0CD": "native-windows"
+        "device:7db5d286-ce54-4e23-b974-d1cdbe034a1d": "native-windows"
       },
       "wslDistroOverridesByHost": {}
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
     }
   },
   "settingsProvider": "codex",
